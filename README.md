@@ -1,4 +1,12 @@
-# UniMemo - To uncover the full potential.
+# UniMemo
+
+## Vision
+
+Prosper, your way.
+
+## Mission
+
+To uncover the full potential of humankinds.
 
 ## Background
 
