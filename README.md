@@ -1,16 +1,17 @@
-# UniMemo
+# UniMemo 發掘順便
 
-## Vision
+關鍵配套
+- 實時GPS定位（Uber）
+- 預設常用地點（Google）
+- 電子銀包（Tap&Go）
+- 支付中介（Alipay）
+- 統一密封包裝（Amazon）
+- 社交圈子傳遞（Facebook）
 
-Prosper, your way.
-
-## Mission
-
-To uncover the full potential of humankinds.
-
-## Background
-
-UniMemo is a concept of focusing on mankind's happiness in terms of the average amount of time we spent every day on things we like to do.
-
-In today's world, however, resources are rich but can be easily and unnecessarily missed. As a result, much of our time might be exhausted by overcoming information barriers to get those 'missed' resources back. So the solution UniMemo proposed is this: we connect memories among things and people into one united system that can decide, provide and initiate (with your acknowledgement & consent) a series of identified services (under providers' consent) whenever you need.
+Memo
+- 按金
+- 起始點
+- 目的地
+- 購買清單
+- 交收時間
 
