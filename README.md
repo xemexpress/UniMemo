@@ -19,7 +19,7 @@
 | 隱匿電話號碼           | <u>尊重私隱</u>。確保個人資料時刻保密。    |
 | 實時定位`&`預設常到地點 | <u>連接順便</u>。搜尋最相關的Memo。       |
 
-
+![流程](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow.jpg)
 
 ___
 
@@ -111,7 +111,7 @@ ___
 
 交收時間與<u>新計劃路線的預計抵達時間</u>相符的可行情況下，潛在接單人才會接收到Memo。
 
-![流程](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow.jpg)
+
 
 ### <u>關鍵配套</u>
 
