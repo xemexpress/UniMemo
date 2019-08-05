@@ -111,7 +111,7 @@ ___
 
 交收時間與<u>新計劃路線的預計抵達時間</u>相符的可行情況下，潛在接單人才會接收到Memo。
 
-![Flow(CHN)](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow(CHN).jpg)
+![流程](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow.jpg)
 
 ### <u>關鍵配套</u>
 
