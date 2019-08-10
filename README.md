@@ -1,4 +1,4 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.8.8.7</div>
+<div style="text-align: right; font-size:50%">Updated: 2019.8.10.1</div>
 
 # UniMemo 發掘順便
 
@@ -118,7 +118,7 @@
 
 #### 隱匿傳訊
 
-在確保用戶私隱安全的前提下，為用戶提供即時傳訊功能，包括語音、文字及圖像。
+在確保用戶私隱安全的前提下，為用戶提供即時語音、文字及圖像的傳訊功能。
 
 
 
