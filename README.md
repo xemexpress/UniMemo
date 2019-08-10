@@ -1,5 +1,4 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.8.10.2</div>
-
+<div style="text-align: right; font-size:50%">Updated: 2019.8.10.3</div>
 # UniMemo 發掘順便
 
 ### TL;DR
@@ -12,13 +11,13 @@
 - 代買清單
 - 交收時地
 
-| 關鍵配套              | 作用                                   |
-| -------------------- | ------------------------------------- |
-| 電子錢包`&`支付中介     | <u>建立信任</u>。提供安心墊支的合作前提。  |
-| 合作商戶              | <u>保障權益</u>。承諾為未查收的商品退款。   |
-| 雙向評準              | <u>重視意見</u>。低評的互動會被紀錄並跟進。 |
-| 隱匿傳訊           | <u>尊重私隱</u>。確保個人資料時刻保密。    |
-| 路線演算              | <u>連接順便</u>。搜尋最相關的Memo。       |
+| 關鍵配套     | 作用                                  |
+| ---------- | ------------------------------------- |
+| 電子支付中介 | <u>建立信任</u>。提供安心墊支的合作前提。   |
+| 合作商戶     | <u>保障權益</u>。承諾為未查收的商品退款。  |
+| 雙向評準     | <u>重視意見</u>。低評的互動會被紀錄並跟進。|
+| 隱匿傳訊     | <u>尊重私隱</u>。確保個人資料時刻保密。    |
+| 路線演算     | <u>連接順便</u>。搜尋最相關的Memo。      |
 
 ![流程](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow.jpg)
 
@@ -92,17 +91,13 @@
 
 
 
+
+
 ### <u>關鍵配套</u>
 
-#### 電子錢包
+#### 電子支付中介
 
-讓出單人與接單人之間能輕鬆轉帳付款。
-
-
-
-#### 支付中介
-
-輔助處理承諾按金的轉帳交接，為用戶確立基礎互信，讓接單人放心墊支。
+電子支付中介包括<u>電子錢包</u>和<u>支付中介</u>，輔助轉帳以及處理承諾按金的交接，確立基礎互信，讓接單人放心墊支。
 
 
 
@@ -161,10 +156,8 @@ Memo評價分好評和差評。好評為單一選擇，差評則須紀錄相關�
 
 系統根據用戶的實時定位展示相關的產品廣告。
 
-
-
 ------
 
 ### 附件一
 
-<img style="display: block;margin-left: auto;margin-right: auto;width: 87%;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Flow.jpg" />
+<img style="display: block;margin-left: auto;margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Flow.jpg" />
