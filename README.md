@@ -1,4 +1,4 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.8.10.1</div>
+<div style="text-align: right; font-size:50%">Updated: 2019.8.10.2</div>
 
 # UniMemo 發掘順便
 
