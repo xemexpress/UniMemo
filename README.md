@@ -1,4 +1,5 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.8.17.1</div>
+<div style="text-align: right; font-size:50%">Updated: 2019.8.17.2</div>
+
 # UniMemo 發掘順便
 
 ### TL;DR
@@ -171,13 +172,15 @@ Memo評價分好評和差評。好評為單一選擇，差評則須紀錄相關�
 
 #### 地域廣告
 
-系統根據用戶的當前位置展示相關的產品廣告。
+系統根據地理定位向用戶展示相關的產品廣告。
 
 
 
 
 
 ------
+
+
 
 
 
