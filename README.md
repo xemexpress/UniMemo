@@ -1,4 +1,4 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.8.20.1</div>
+<div style="text-align: right; font-size:50%">Updated: 2019.8.20.2</div>
 
 # UniMemo 發掘順便
 
@@ -26,7 +26,7 @@
 
 ##### 用一罐可樂做例子
 
-![On Cola](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow/On Cola.jpg)
+![cola](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow/Cola.jpg)
 
 ### <u>Memo紙</u>
 
@@ -170,7 +170,6 @@
 | 交收點與我的目的地<u>相近</u>。 | 到達就交收 |
 
 <div style="text-align: right"><small><i>（相近：50m以內）</i></small></div>
-
 
 
 
