@@ -1,4 +1,5 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.8.18.1</div>
+<div style="text-align: right; font-size:50%">Updated: 2019.8.20.1</div>
+
 # UniMemo 發掘順便
 
 ### TL;DR
@@ -19,9 +20,13 @@
 | 隱匿傳訊     | <u>尊重私隱</u>。確保個人資料時刻保密。    |
 | 路線演算     | <u>連接順便</u>。搜尋最相關的Memo。      |
 
-![流程](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow.jpg)
+![流程](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow/Flow.jpg)
 
 ### 詳細版本
+
+##### 用一罐可樂做例子
+
+![On Cola](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow/On Cola.jpg)
 
 ### <u>Memo紙</u>
 
@@ -82,14 +87,6 @@
 #### 交收時地
 
 交收時地是交收的時段和地點。<u>交收時段與新計劃路線的預計抵達時間相符</u>以及<u>交收點與原計劃路線相近</u>時，潛在接單人才有機會接收到相關Memo。
-
-
-
-
-
-
-
-
 
 
 
@@ -190,7 +187,6 @@
 
 
 
-
 ### <u>盈利模式</u>
 
 #### 地域廣告
@@ -199,23 +195,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ------
-
-
 
 ### 附件一
 
