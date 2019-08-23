@@ -1,4 +1,4 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.8.21.2</div>
+<div style="text-align: right; font-size:50%">Updated: 2019.8.23.1</div>
 
 # UniMemo 發掘順便
 
@@ -170,6 +170,7 @@
 | 交收點與我的目的地<u>相近</u> | 到達就交收 |
 
 <div style="text-align: right"><small><i>（相近：50m以內）</i></small></div>
+
 
 
 
