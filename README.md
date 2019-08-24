@@ -1,4 +1,4 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.8.23.1</div>
+<div style="text-align: right; font-size:50%">Updated: 2019.8.24.1</div>
 
 # UniMemo 發掘順便
 
@@ -98,9 +98,9 @@
 
 ### <u>關鍵配套</u>
 
-#### 電子支付中介
+#### 電子支付平台
 
-電子支付中介包括<u>電子錢包</u>和<u>支付中介</u>，輔助轉帳以及處理承諾按金的交接，確立基礎互信，讓接單人放心墊支。
+電子支付平台包括<u>電子錢包</u>和<u>支付中介</u>，輔助轉帳以及處理承諾按金的交接，確立基礎互信，讓接單人放心墊支。
 
 
 
@@ -170,7 +170,6 @@
 | 交收點與我的目的地<u>相近</u> | 到達就交收 |
 
 <div style="text-align: right"><small><i>（相近：50m以內）</i></small></div>
-
 
 
 
