@@ -1,4 +1,5 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.8.29.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>shorturl.at/vzCHQ</u></div>
+<div style="text-align: right; font-size:50%">Updated: 2019.8.30.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>shorturl.at/vzCHQ</u></div>
+
 # UniMemo 發掘順便
 
 ### TL;DR
@@ -48,7 +49,7 @@
 4. 支付承諾按金。
 
    ```markdown
-   系統會以商品在合作商戶中的最高售價計算承諾按金，即 代買商品最高售價的總額（即 墊支部分）加上此總額的10%（即 酬金部分，可附加小費）。交收時，你將會用此按金支付由商戶核實並經接單人代買的商品，（若有）餘額將返還至你的電子錢包。若你無法支付承諾按金，Memo會被拒發出。
+   系統會以商品在合作商戶中的最高售價計算承諾按金，即 代買商品最高售價的總額（即 墊支部分）加上此總額的10%（即 酬金部分）。交收時，你將會用此按金支付由商戶核實並經接單人代買的商品，（若有）餘額將返還至你的電子錢包。若你無法支付承諾按金，Memo會被拒發出。
    ```
 
 5. 出單。如已確認接單人，便按既定時段和地點交收。
