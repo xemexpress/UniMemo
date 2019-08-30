@@ -1,4 +1,4 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.8.30.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>shorturl.at/vzCHQ</u></div>
+<div style="text-align: right; font-size:50%">Updated: 2019.8.31.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>shorturl.at/vzCHQ</u></div>
 
 # UniMemo 發掘順便
 
@@ -159,13 +159,13 @@
 
 系統以每秒1.25米的步速，默認「額外路程需時不多於15分鐘」的Memo為「順便」。當中較理想的情況會作特別標示：
 
-| 較理想的情況              | 簡述      |
+| 較理想的情況                            | 簡述      |
 | ------------------------------------- | -------- |
 | 代買點與交收點<u>相近</u>                | 買完就交收 |
-| 代買點與我的目的地<u>相同</u>            | 同一間店舖 |
-| 代買點與我的目的地<u>相近</u>            | 相近的店舖 |
 | 交收點與我的目的地<u>相近</u>            | 到達就交收 |
 | 代買點與我的出發地<u>相近</u>            | 起程就代買 |
+| 代買點與我的目的地<u>相同</u>（若考慮回程） | 同一間店舖 |
+| 代買點與我的目的地<u>相近</u>（若考慮回程） | 相近的店舖 |
 | 交收點與我的出發地<u>相近</u>（若考慮回程） | 近起點交收 |
 
 <div style="text-align: right"><small><i>（相近：50m以內）</i></small></div>
