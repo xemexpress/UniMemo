@@ -1,4 +1,4 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.8.31.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>shorturl.at/vzCHQ</u></div>
+<div style="text-align: right; font-size:50%">Updated: 2019.9.3.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u></div>
 
 # UniMemo 發掘順便
 
@@ -152,8 +152,8 @@
 
 | 方式    | 默認起點                         | 默認終點    | 可設通知 |
 | ------- | ------------------------------ | ---------- | ------- |
-| 具向搜尋 | 當前位置<small>或自行輸入</small> | 須自行輸入   | √       |
-| 預設搜尋 | 預設常到地點                     | 預設常到地點 | √       |
+| 具向搜尋 | 當前位置或自行輸入 | 須自行輸入   | √       |
+| 一般搜尋 | 預設常到地點                     | 預設常到地點 | √       |
 
 
 
@@ -169,7 +169,6 @@
 | 交收點與我的出發地<u>相近</u>（若考慮回程） | 近起點交收 |
 
 <div style="text-align: right"><small><i>（相近：50m以內）</i></small></div>
-
 
 
 
