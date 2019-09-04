@@ -1,4 +1,7 @@
-<div style="text-align: right; font-size: 50%;">Updated: 2019.9.4.3&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u></div>
+<div style="text-align: right; font-size: 50%;">
+Updated: 2019.9.4.4&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+</div>
+
 # UniMemo--Excavation of Convenience
 
 ### To Be Simple
@@ -188,10 +191,10 @@ the reasons will be recorded by the system as reference.
 The system will calculate the Shopping Points and Points of Settlement along the route using the Starting Points and Ending Points provided by the users. Users can let the system start roadshow algorithm by two ways:
 </div>
 
-| Way                          | Default Starting Point                             | Default Destination      | Set Notification |
-| ---------------------------- | -------------------------------------------------- | ------------------------ | ---------------- |
-| Directional<div>Search</div> | Current location<div>or to enter by yourself</div> | Must enter by yourself   | √                |
-| General<div>Search</div>     | Preset frequent location                           | Preset frequent location | √                |
+| Way                | Default<div>Starting Point</div>                   | Default<div>Destination</div> | Set<div>Notification</div> |
+| ------------------ | -------------------------------------------------- | ----------------------------- | -------------------------- |
+| Directional Search | Current location<div>or to enter by yourself</div> | Must enter by yourself        | √                          |
+| General Search     | Preset frequent location                           | Preset frequent location      | √                          |
 
 
 

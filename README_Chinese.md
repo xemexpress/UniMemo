@@ -1,4 +1,6 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.9.4.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u></div>
+<div style="text-align: right; font-size:50%">
+Updated: 2019.9.4.3&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
+</div>
 
 # UniMemo 發掘順便
 
@@ -184,7 +186,6 @@
 
 
 
-
 ### <u>盈利模式</u>
 
 #### 地域廣告
@@ -197,4 +198,4 @@
 
 ### 附件一
 
-<img style="display: block;margin-left: auto;margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Flow.jpg" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Flow.jpg" />
