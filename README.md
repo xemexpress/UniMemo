@@ -1,5 +1,4 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.9.4.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u></div>
-
+<div style="text-align: right; font-size: 50%;">Updated: 2019.9.4.3&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u></div>
 # UniMemo--Excavation of Convenience
 
 ### To Be Simple
@@ -52,7 +51,7 @@ Take 10 % of price of commodity as commission，purchase + delivery.
    Each item of commodity in the search results contains a product name, a picture and a bar code. You can use them to further confirm which item you want to buy. 
    ```
 
-2. Confrim the items and the number of items you want to buy.
+2. Confirm the items and the number of items you want to buy.
 
    ```markdown
    The system can gather the price of a commodity sold in different shops (Shopping Points). You can adjust the price according to your budget, region or rating given to those Shopping Points. The more the Shoping Points selling that commodity, the higher the chance the Memo will be read.
@@ -96,14 +95,26 @@ Take 10 % of price of commodity as commission，purchase + delivery.
 
 #### Deposit
 
-<div style="text-align: justify;">Deposit is the amount of money paid by an offerer before sending out the Memo. It is used to pay for the commodity and reward for the bypasser. The bypasser can only secure the deposit after accepting the order to help the offerer to buy the commodity in passing. <u>During settlement, the offerer reserves the right to decide whether to pay for the commodity if it is not in its intact form</u>, e.g. the package is opened or damaged. The bypasser does not need to give the commodity to the offerer if the offerer does not pay.</div>
+<div style="text-align: justify;">
+Deposit is the amount of money paid by an offerer before sending out the Memo. It is used to pay for the commodity and reward for the bypasser. The bypasser can only secure the deposit after accepting the order to help the offerer to buy the commodity in passing. <u>During settlement, the offerer reserves the right to decide whether to pay for the commodity if it is not in its intact form</u>, e.g. the package is opened or damaged. The bypasser does not need to give the commodity to the offerer if the offerer does not pay.
+</div>
+
 #### Shopping List
 
-<div style="text-align: justify;">A shopping list consists of items of commodity. Items of commodity state clearly the <u>name</u>, <u>picture</u>, <u>barcode</u>, <u>shopping point</u>, <u>price</u> and <u>number of items</u>. Potential bypassers will only receive posts of Memo when <u>their originally planned route and shopping points are approximate</u>.</div>
-<div style="margin-top: 12px; text-align: justify;">Potential bypassers <u>can choose the type of  commodity and the number of it accroding to their own interest</u>. By confirming the commodity and number of items they are willing to help the offerer to buy, they become a bypasser. Bypassers should <u>show a barcode</u> to the cashier when they pay. The cashier will scan the barcode and <u>check whether the commodity and number of items are correct</u>. After checking, the bypasser can pay and the cashier will put the items into a sealed bag with a receipt to ensure that the commodity will not be swapped. Meanwhile, the system will update the status of transaction, including commodity check, payment and sealing.</div>
+<div style="text-align: justify;">
+A shopping list consists of items of commodity. Items of commodity state clearly the <u>name</u>, <u>picture</u>, <u>barcode</u>, <u>shopping point</u>, <u>price</u> and <u>number of items</u>. Potential bypassers will only receive posts of Memo when <u>their originally planned route and shopping points are approximate</u>.
+</div>
+
+<div style="margin-top: 10px; text-align: justify;">
+Potential bypassers <u>can choose the type of  commodity and the number of it accroding to their own interest</u>. By confirming the commodity and number of items they are willing to help the offerer to buy, they become a bypasser. Bypassers should <u>show a barcode</u> to the cashier when they pay. The cashier will scan the barcode and <u>check whether the commodity and number of items are correct</u>. After checking, the bypasser can pay and the cashier will put the items into a sealed bag with a receipt to ensure that the commodity will not be swapped. Meanwhile, the system will update the status of transaction, including commodity check, payment and sealing.
+</div>
+
 #### Place and Time for Settlement
 
-<div style="text-align: justify;">Potential bypassers will only receive relevant Memo when <u>the time for settlement matches with the estimated arrival time</u> and <u>the place for settlement is approximate to the orginally planned route</u>.</div>
+<div style="text-align: justify;">
+Potential bypassers will only receive relevant Memo when <u>the time for settlement matches with the estimated arrival time</u> and <u>the place for settlement is approximate to the orginally planned route</u>.
+</div>
+
 
 
 
@@ -115,23 +126,38 @@ Take 10 % of price of commodity as commission，purchase + delivery.
 
 #### Online Payment Platform
 
-<div style="text-align: justify;">Online payment platforms include <u>digital wallets</u> and <u>paying agents</u>. They help transfer money and deal with the paid deposit so that the offerers are reassured to pay in advance and trust is build among users.</div>
+<div style="text-align: justify;">
+Online payment platforms include <u>digital wallets</u> and <u>paying agents</u>. They help transfer money and deal with the paid deposit so that the offerers are reassured to pay in advance and trust is build among users.
+</div>
+
 
 
 #### Business Partners
 
-<div style="text-align: justify;">Shopping points (Stores) will do the quotation, promise to arrage refund for unchecked commodity, as well as putting the paid commodity into the sealed bag so as to avoid the commodity being swapped.</div>
-<div style="margin-top: 12px; text-align: justify;">Once the sealed bag is opened, the commodity is checked. Stores reserve the right not to refund it. Regarding the commodity, the system <u>only recommends those which are sealed or have standardized production, excluding cooked to order takeaways, vegetables, fruits, seafoods, meat, dairy and soy products that require constant low temperature storage</u>.</div>
+<div style="text-align: justify;">
+Shopping points (Stores) will do the quotation, promise to arrage refund for unchecked commodity, as well as putting the paid commodity into the sealed bag so as to avoid the commodity being swapped.
+</div>
+
+<div style="margin-top: 10px; text-align: justify;">
+Once the sealed bag is opened, the commodity is checked. Stores reserve the right not to refund it. Regarding the commodity, the system <u>only recommends those which are sealed or have standardized production, excluding cooked to order takeaways, vegetables, fruits, seafoods, meat, dairy and soy products that require constant low temperature storage</u>.
+</div>
+
 
 
 #### Anonymous Communication
 
-<div style="text-align: justify;">To provide users with instant voice, text and image messaging while protecting users' privacy.</div>
+<div style="text-align: justify;">
+To provide users with instant voice, text and image messaging while protecting users' privacy.
+</div>
+
 
 
 #### Two-way Evaluation
 
-<div style="text-align: justify;">Users can evaluate the interections they had with others after the settlement. Good ratings are sepcified by a default sentence while reasons must be given to verify bad ratings.</div>
+<div style="text-align: justify;">
+Users can evaluate the interections they had with others after the settlement. Good ratings are sepcified by a default sentence while reasons must be given to verify bad ratings.
+</div>
+
 | Offerer                            | Bypasser                         |
 | ---------------------------------- | -------------------------------- |
 | -                                  | Difficult to find the shops      |
@@ -158,28 +184,42 @@ the reasons will be recorded by the system as reference.
 
 #### Roadshow Algorithm
 
-<div style="text-align: justify;">The system will calculate the Shopping Points and Points of Settlement along the route using the Starting Points and Ending Points provided by the users. Users can let the system start roadshow algorithm by two ways:</div>
-| Way                | Default Starting Point                   | Default Destination      | Set Notification |
-| ------------------ | ---------------------------------------- | ------------------------ | ---------------- |
-| Directional Search | Current location or to enter by yourself | Must enter by yourself   | √                |
-| General Search     | Preset frequent location                 | Preset frequent location | √                |
+<div style="text-align: justify;">
+The system will calculate the Shopping Points and Points of Settlement along the route using the Starting Points and Ending Points provided by the users. Users can let the system start roadshow algorithm by two ways:
+</div>
 
-<div style="text-align: justify;">The system defines 'extra travel distrance no more than 15 minutes' as 'bypassing' with a speed of 1.25 meters per second. Ideal situations will be specially marked:</div>
+| Way                          | Default Starting Point                             | Default Destination      | Set Notification |
+| ---------------------------- | -------------------------------------------------- | ------------------------ | ---------------- |
+| Directional<div>Search</div> | Current location<div>or to enter by yourself</div> | Must enter by yourself   | √                |
+| General<div>Search</div>     | Preset frequent location                           | Preset frequent location | √                |
+
+
+
+
+<div style="text-align: justify;">
+The system defines 'extra travel distrance no more than 15 minutes' as 'bypassing' with a speed of 1.25 meters per second. Ideal situations will be specially marked:
+</div>
+
 | Ideal Situations                                             | Brief Introduction             |
 | ------------------------------------------------------------ | ------------------------------ |
 | Shopping Point & Point of Settlement are <u>approximate</u>  | Settle after purchased         |
 | Point of Settlement & My Destination are <u>approximate</u>  | Settle when arrived            |
 | Shopping Point & Starting Point are <u>approximate</u>       | Start and purchase             |
-| Shopping Point & My Destination are <u>the same</u> (if consider route of return) | Same Shopping Point            |
-| Shopping Point & My Destination are <u>approximate</u> (if consider route of return) | Nearby Shopping Points         |
-| Point of Settlement & My Starting Point are the <u>approximate</u> (if consider route of return) | Settle near the Starting Point |
+| Shopping Point & My Destination are <u>the same</u><div>(if consider route of return)</div> | Same Shopping Point            |
+| Shopping Point & My Destination are <u>approximate</u><div>(if consider route of return)</div> | Nearby Shopping Points         |
+| Point of Settlement & My Starting Point are <u>approximate</u><div>(if consider route of return)</div> | Settle near the Starting Point |
 
-<div style="text-align: right"><small><i>（Approximate：within 50m）</i></small></div>
-### <u>Business Model</u> 
+<div style="text-align: right">
+<small><i>（Approximate：within 50m）</i></small>
+</div>
+
+### <u>Business Model</u>
 
 #### Geo-targeting Advertising
 
-<div style="text-align: justify;">System will display advertisement of related commodity according to geographic location.</div>
+<div style="text-align: justify;">
+System will display advertisement of related commodity according to geographic location.
+</div>
 
 
 
@@ -237,7 +277,7 @@ the reasons will be recorded by the system as reference.
 
 ### Appendix I
 
-<img style="display: block;margin-left: auto;margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Flow.jpg" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Flow.jpg" />
 
 
 
