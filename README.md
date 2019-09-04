@@ -1,199 +1,266 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.9.3.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u></div>
+<div style="text-align: right; font-size:50%">Updated: 2019.9.4.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u></div>
 
-# UniMemo 發掘順便
+# UniMemo--Excavation of Convenience
 
-### TL;DR
+### To Be Simple
 
-以商品實付金額的10%作為酬金，代買+送遞。
+Take 10 % of price of commodity as commission，purchase + delivery.
 
-### <u>Memo紙</u>
+### Components of a Memo
 
-- 承諾按金
-- 代買清單
-- 交收時地
+- Deposit
+- Shopping List
+- Place and time for settlement
 
-| 關鍵配套     | 作用                                  |
-| ---------- | ------------------------------------- |
-| 電子支付平台 | <u>建立信任</u>。提供安心墊支的合作前提。   |
-| 合作商戶     | <u>保障權益</u>。承諾為未查收的商品退款。  |
-| 雙向評準     | <u>重視意見</u>。低評的互動會被紀錄並跟進。|
-| 隱匿傳訊     | <u>尊重私隱</u>。確保個人資料時刻保密。    |
-| 路線演算     | <u>連接順便</u>。搜尋最相關的Memo。      |
+| Key Support             | Functions                                                    |
+| ----------------------- | ------------------------------------------------------------ |
+| Online Payment Platform | Build trust. Provide reassured refund as premise of corporation. |
+| Business Partners       | Protect interests. Refund commodity that was not be settled. |
+| Two-way Evaluation      | Value opinions. Record and follow up interactions with low rating. |
+| Anonymous Communication | Respect privacy. Ensure personal data are always kept in strictest confidence. |
+| Roadshow Algorithm      | Connect convenience. Search for the most relevant Memo.      |
 
-![流程](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow/Flow.jpg)
 
-### 詳細版本
 
-##### 用一罐可樂做例子
 
-![cola](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow/Cola.jpg)
 
-### <u>Memo紙</u>
 
-##### 作為出單人，以商品實付金額的10%作為酬金，讓順路的人幫你買東西。基本步驟如下：
 
-1. 搜尋商品關鍵字。
 
-   ```markdown
-   搜尋結果中的每個商品單項均有商品名稱、實物圖片和條碼，你可藉此來進一步確認你想買的商品。
-   ```
 
-2. 確認你要買的商品及數量。
 
-   ```markdown
-   同一個商品集合由不同合作商戶（代買點）提供的售價，你可根據自己的預算來調整價錢、選擇地區或按照合作商戶評分來篩選代買點。代買點越多，Memo傳閱機會越高。
-   ```
 
-3. 確認交收時間和地點。
 
-4. 支付承諾按金。
 
-   ```markdown
-   系統會以商品在合作商戶中的最高售價計算承諾按金，即 代買商品最高售價的總額（即 墊支部分）加上此總額的10%（即 酬金部分）。交收時，你將會用此按金支付由商戶核實並經接單人代買的商品，（若有）餘額將返還至你的電子錢包。若你無法支付承諾按金，Memo會被拒發出。
-   ```
 
-5. 出單。如已確認接單人，便按既定時段和地點交收。
+
+
+
+
+
+
+
+
+
+
+
+### Details
+
+### Components of a Memo
+
+##### As an offerer, offer 10 % of price of the commodity as commission to let a bypasser shop for you. Steps are as follows:
+
+1. Search keywords of the commodity. 
 
    ```markdown
-   若你取消的Memo仍未獲接單人確認，承諾按金會全數返還，否則，系統只會返還墊支部分，酬金部分則由接單人獲得。
+   Each item of commodity in the search results contains a product name, a picture and a bar code. You can use them to further confirm which item you want to buy. 
    ```
 
-##### 作為接單人，以商品實付金額的10%作為酬金，順便幫人買東西。基本步驟如下：
+2. Confrim the items and the number of items you want to buy.
 
-1. 輸入你正要前往的目的地。
-
-   ```
-   系統以最短額外路程為考慮，搜尋並提供以當前位置為起點、目的地為終點並會途經代買點及交收點的新路線。你可以根據自己的時間安排，考慮相關路線。
+   ```markdown
+   The system can gather the price of a commodity sold in different shops (Shopping Points). You can adjust the price according to your budget, region or rating given to those Shopping Points. The more the Shoping Points selling that commodity, the higher the chance the Memo will be read.
    ```
 
-2. 選擇路線並確認你方便代買的商品單項 。
+3. Confirm the place and time for settlement. 
 
-3. 按照要求代買並交收。
+4. Pay the deposit.
 
+   ```markdown
+   The system will derive the highest selling price of the commodity sold in differnt Shopping Points as the deposit. 10 % of price of the commodity will be added up as the reward given to the bypasser. During settlement, the deposit will be used to pay for the commodity which has been confimed by the offerer (the store of shopping point) and has been accepted by a bypasser. Balance (if there is any) will be returned to the eletronic wallet owned by the offerer. If you cannot pay the deposit, the Memo will not be posted. 
+   ```
 
+5. Post the Memo. If it is accepted by a bypasser, follow the specified place and time to settle the transaction. 
 
-###### 以下對Memo內容作簡述補充：
+   ```markdown
+   If you want to cancel a Memo which has not been accepted by a bypasser, the deposit paid in advance will be fully returned. Otherwise, the system will only return part of the deposit to the offerer, while the remaining will be given to the bypasser as a compensation.
+   ```
 
-####  承諾按金
 
-承諾按金是出單人在出單前已支付的按金，用於向接單人支付代買商品及酬金。潛在接單人在代買前須對目標商品單項進行「確認」，成功確認才會受按金保障。若交收時<u>接單人未能交付包裝完好無缺的商品</u>，例如包裝曾被開啟或破裂，<u>出單人有權決定是否支付商品</u>。若出單人不向接單人確認支付，接單人則無須交付相關商品。
 
-#### 代買清單
 
-代買清單由商品單項組成，商品單項明確顯示代買商品的<u>名稱</u>、<u>實物圖片</u>、<u>條碼</u>、<u>相關代買點</u>、<u>售價</u>以及<u>代買數量</u>。<u>代買點與原計劃路線相近</u>時，潛在接單人才有機會收到相關Memo。
 
-潛在接單人<u>可按其意願選擇商品單項並確認數量</u>成為接單人。接單人代買時，須向收銀處職員<u>出示代買單號</u>，職員掃描單號<u>導入代買清單</u>，並按照清單<u>驗對商品及數量</u>。核對無誤後，接單人方可支付，而職員則把商品放入特定的密封用袋並附上收據，確保商品不被調換。過程中，系統會即時更新清單狀態，包括商品驗對、支付和封裝。
 
-#### 交收時地
 
-交收時地是交收的時段和地點。<u>交收時段與新計劃路線的預計抵達時間相符</u>以及<u>交收點與原計劃路線相近</u>時，潛在接單人才有機會收到相關Memo。
+##### A bypasser will be given 10 % of price of commodity as reward when helping the offerer to purchase in passing. Simple steps are as follows:
 
+1. Input the destination you are heading to.
 
+   ```markdown
+   The system will search for the shortest route and provide Starting Points, Destinations and Shopping Points along it. You can choose relevant route according to your own time arrangement. 
+   ```
 
+2. Choose the route and confirm the commodity which you can help others to buy in passing.
 
+3. Follow the instructions to buy in passing and finish the settlement.
 
 
 
+###### Components of Memo in details：
 
+#### Deposit
 
-### <u>關鍵配套</u>
+Deposit is the amount of money paid by an offerer before sending out the Memo. It is used to pay for the commodity and reward for the bypasser. The bypasser can only secure the deposit after accepting the order to help the offerer to buy the commodity in passing. During settlement, the offerer reserves the right to decide whether to pay for the commodity if it is not in its intact form, e.g. the package is opened or damaged. The bypasser does not need to give the commodity to the offerer if the offerer does not pay.
 
-#### 電子支付平台
+#### Shopping List
 
-電子支付平台包括<u>電子錢包</u>和<u>支付中介</u>，輔助轉帳以及處理承諾按金的交接，確立基礎互信，讓接單人放心墊支。
+A shopping list consists of items of commodity. Items of commodity state clearly the name, picture, barcode, shopping point, price and number of items. Potential bypassers will only receive posts of Memo when their originally planned route and shopping points are approximate.
 
+Potential bypassers can choose the type of  commodity and the number of it accroding to their own interest. By confirming the commodity and number of items they are willing to help the offerer to buy, they become a bypasser. Bypassers should show a barcode to the cashier when they pay. The cashier will scan the barcode and check whether the commodity and number of items are correct. After checking, the bypasser can pay and the cashier will put the items into a sealed bag with a receipt to ensure that the commodity will not be swapped. Meanwhile, the system will update the status of transaction, including commodity check, payment and sealing.
 
+#### Place and Time for Settlement
 
-#### 合作商戶
+Potential bypassers will only receive relevant Memo when <u>the time for settlement matches with the estimated arrival time</u> and <u>the place for settlement is approximate to the orginally planned route</u>.
 
-合作商戶為商品單項報價，並承諾為用戶未經查收並且完好的商品安排退款，包括安排職員把接單人已代買的商品放入特定的密封用袋，使袋內商品無法不為意地被調換。密封用袋一經開啟，即表明商品已被查收，商戶將有權不為其退款。
 
-商品單項方面，本系統<u>只建議經標準化生產或有密封包裝的商品，不包括經即場製作的熟食外賣類、蔬菜類、生果類、海鮮類、鮮肉類及需恆低溫儲存的奶製品和豆製品商品</u>。
 
 
 
-#### 隱匿傳訊
 
-在確保用戶私隱安全的前提下，為用戶提供即時語音、文字及圖像的傳訊功能。
 
 
 
-#### 雙向評準
+### <u>Key Support</u>
 
-用戶可於交收後評價Memo的互動。好評為單一選擇，差評則須紀錄相關原因。
+#### Online Payment Platform
 
-| 出單人        | 接單人        |
-| ------------ | ------------ |
-| -            | 難以找到商戶   |
-| -            | 商戶不禮貌    |
-| 難以聯絡接單人 | 難以聯絡出單人 |
-| 難以找到接單人 | 難以找到出單人 |
-| 等候接單人過久 | 等候出單人過久 |
-| 接單人不禮貌   | 出單人不禮貌   |
-| 物品損壞或缺少 | -            |
-| 其他          | 其他         |
+Online payment platforms include digital wallets and paying agents. They help transfer money and deal with the paid deposit so that the offerers are reassured to pay in advance and trust is build among users. 
 
 
 
-若用戶需要取消Memo或代買確認，相關原因須被紀錄作為系統參考。
+#### Business Partners
 
-| 出單人的取消原因 | 接單人的撤銷原因 |
-| ------------- | ------------- |
-| 不要此商品      | 品類不存在      |
-| 已自行處理      | 商品已售罄      |
-| 欲取回按金      | 行程變更        |
-| 其他           | 其他           |
+Shopping points (Stores) will do the quotation, promise to arrage refund for unchecked commodity, as well as putting the paid commodity into the sealed bag so as to avoid the commodity being swapped. 
 
+Once the sealed bag is opened, the commodity is checked. Stores reserve the right not to refund it. Regarding the commodity, the system only recommend those which are sealed or have standardized production, excluding cooked to order takeaways, vegetables, fruits, seafoods, meat, dairy and soy products that require constant low temperature storage. 
 
 
-#### 路線演算
 
-系統根據用戶提供的起點和終點（或考慮來回），演算途經代買點及交收點的路線。額外路程需時較少的Memo將獲前置。用戶可循以下方式讓系統啟動路線演算：
+#### Anonymous Communication
 
-| 方式    | 默認起點                         | 默認終點    | 可設通知 |
-| ------- | ------------------------------ | ---------- | ------- |
-| 具向搜尋 | 當前位置或自行輸入 | 須自行輸入   | √       |
-| 一般搜尋 | 預設常到地點                     | 預設常到地點 | √       |
+To provide users with instant voice, text and image messaging while protecting users' privacy.
 
 
 
-系統以每秒1.25米的步速，默認「額外路程需時不多於15分鐘」的Memo為「順便」。當中較理想的情況會作特別標示：
+#### Two-way Evaluation
 
-| 較理想的情況                            | 簡述      |
-| ------------------------------------- | -------- |
-| 代買點與交收點<u>相近</u>                | 買完就交收 |
-| 交收點與我的目的地<u>相近</u>            | 到達就交收 |
-| 代買點與我的出發地<u>相近</u>            | 起程就代買 |
-| 代買點與我的目的地<u>相同</u>（若考慮回程） | 同一間店舖 |
-| 代買點與我的目的地<u>相近</u>（若考慮回程） | 相近的店舖 |
-| 交收點與我的出發地<u>相近</u>（若考慮回程） | 近起點交收 |
+Users can evaluate the interections they had with others after the settlement. Good ratings are sepcified by a default sentence while reasons must be given to verify bad ratings. 
 
-<div style="text-align: right"><small><i>（相近：50m以內）</i></small></div>
+| Offerer                            | Bypasser                         |
+| ---------------------------------- | -------------------------------- |
+| -                                  | Difficult to find the shops      |
+| -                                  | Shops are unfriendly             |
+| Difficult to contact the bypasser  | Difficult to contact the offerer |
+| Difficult to find a bypasser       | Difficult to find a offerer      |
+| Waiting too long for the bypasser  | Waiting too long for the offerer |
+| The bypasser is impolite           | The offerer is impolite          |
+| The commodity is damaged or lacked | -                                |
+| Others                             | Others                           |
 
+If the users want to cancel the Memo of withdraw from an order, the reasons will be recorded by
 
+the system as reference. 
 
+| Reasons for Offerers to Cancel Order | Reasons for Bypassers to Withdraw |
+| ------------------------------------ | --------------------------------- |
+| Do not need the item anymore         | The commodity does not exist      |
+| Bought the item already              | The commodity is sold             |
+| Want to get back the deposit         | Route is changed                  |
+| Others                               | Others                            |
 
 
 
+#### Roadshow Algorithm
 
+The system will calculate the Shopping Points and Points of Settlement along the route using the Starting Points and Ending Points provided by the users. Users can let the system start roadshow algorithm by two ways:
 
+| Way                | Default Starting Point                   | Default Destination      | Set Notification |
+| ------------------ | ---------------------------------------- | ------------------------ | ---------------- |
+| Directional Search | Current location or to enter by yourself | Must enter by yourself   | √                |
+| General Search     | Preset frequent location                 | Preset frequent location | √                |
 
+The system defines 'extra travel distrance no more than 15 minutes' as 'bypassing' with a speed of 1.25 meters per second. Ideal situations will be specially marked:
 
+| Ideal Situations                                             | Brief Introduction             |
+| ------------------------------------------------------------ | ------------------------------ |
+| Shopping Point & Point of Settlement are <u>approximate</u>  | Settle after purchased         |
+| Point of Settlement & My Destination are <u>approximate</u>  | Settle when arrived            |
+| Shopping Point & Starting Point are <u>approximate</u>       | Start and purchase             |
+| Shopping Point & My Destination are <u>the same</u> (if consider route of return) | Same Shopping Point            |
+| Shopping Point & My Destination are <u>approximate</u> (if consider route of return) | Nearby Shopping Points         |
+| Point of Settlement & My Starting Point are the <u>approximate</u> (if consider route of return) | Settle near the Starting Point |
 
+<div style="text-align: right"><small><i>（Approximate：within 50m）</i></small></div>
+### Business Model 
 
+#### Geo-targeting Advertising
 
+System will display advertisement of related commodity according to geographic location. 
 
 
-### <u>盈利模式</u>
 
-#### 地域廣告
 
-系統根據地理定位向用戶展示相關的產品廣告。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 ------
 
-### 附件一
+### Appendix 1
 
 <img style="display: block;margin-left: auto;margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Flow.jpg" />
+
+
+
+
+
+### Appendix 2
+
+##### Exemplify by a can of Coca Cola
+
+![cola](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow/Cola.jpg)
