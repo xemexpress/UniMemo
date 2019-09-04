@@ -1,4 +1,5 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.9.4.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u></div>
+<div style="text-align: right; font-size:50%">Updated: 2019.9.4.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u></div>
+
 # UniMemo 發掘順便
 
 ### TL;DR
@@ -168,6 +169,8 @@
 | 交收點與我的出發地<u>相近</u>（若考慮回程） | 近起點交收 |
 
 <div style="text-align: right"><small><i>（相近：50m以內）</i></small></div>
+
+
 
 
 

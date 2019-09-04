@@ -1,4 +1,4 @@
-<div style="text-align: right; font-size:50%">Updated: 2019.9.4.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u></div>
+<div style="text-align: right; font-size:50%">Updated: 2019.9.4.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u></div>
 
 # UniMemo--Excavation of Convenience
 
@@ -6,23 +6,19 @@
 
 Take 10 % of price of commodity as commission，purchase + delivery.
 
-### Components of a Memo
+### <u>Components of a Memo</u>
 
 - Deposit
 - Shopping List
 - Place and time for settlement
 
-| Key Support             | Functions                                                    |
-| ----------------------- | ------------------------------------------------------------ |
-| Online Payment Platform | Build trust. Provide reassured refund as premise of corporation. |
-| Business Partners       | Protect interests. Refund commodity that was not be settled. |
-| Two-way Evaluation      | Value opinions. Record and follow up interactions with low rating. |
-| Anonymous Communication | Respect privacy. Ensure personal data are always kept in strictest confidence. |
-| Roadshow Algorithm      | Connect convenience. Search for the most relevant Memo.      |
-
-
-
-
+| Key Support                       | Functions                                                    |
+| --------------------------------- | ------------------------------------------------------------ |
+| Online&nbsp;Payment&nbsp;Platform | <u>Build trust</u>.<div>Provide reassured refund as premise of corporation.</div> |
+| Business&nbsp;Partners            | <u>Protect interests</u>.<div>Refund commodity that was not be settled.</div> |
+| Two-way&nbsp;Evaluation           | <u>Value opinions</u>.<div>Record and follow up interactions with low rating.</div> |
+| Anonymous&nbsp;Communication      | <u>Respect privacy</u>.<div>Ensure personal data are always kept in&nbsp;strictest&nbsp;confidence.</div> |
+| Roadshow&nbsp;Algorithm           | <u>Connect convenience</u>.<div>Search for the most relevant Memo.</div> |
 
 
 
@@ -46,7 +42,7 @@ Take 10 % of price of commodity as commission，purchase + delivery.
 
 ### Details
 
-### Components of a Memo
+### <u>Components of a Memo</u>
 
 ##### As an offerer, offer 10 % of price of the commodity as commission to let a bypasser shop for you. Steps are as follows:
 
@@ -100,19 +96,14 @@ Take 10 % of price of commodity as commission，purchase + delivery.
 
 #### Deposit
 
-Deposit is the amount of money paid by an offerer before sending out the Memo. It is used to pay for the commodity and reward for the bypasser. The bypasser can only secure the deposit after accepting the order to help the offerer to buy the commodity in passing. During settlement, the offerer reserves the right to decide whether to pay for the commodity if it is not in its intact form, e.g. the package is opened or damaged. The bypasser does not need to give the commodity to the offerer if the offerer does not pay.
-
+<div style="text-align: justify;">Deposit is the amount of money paid by an offerer before sending out the Memo. It is used to pay for the commodity and reward for the bypasser. The bypasser can only secure the deposit after accepting the order to help the offerer to buy the commodity in passing. <u>During settlement, the offerer reserves the right to decide whether to pay for the commodity if it is not in its intact form</u>, e.g. the package is opened or damaged. The bypasser does not need to give the commodity to the offerer if the offerer does not pay.</div>
 #### Shopping List
 
-A shopping list consists of items of commodity. Items of commodity state clearly the name, picture, barcode, shopping point, price and number of items. Potential bypassers will only receive posts of Memo when their originally planned route and shopping points are approximate.
-
-Potential bypassers can choose the type of  commodity and the number of it accroding to their own interest. By confirming the commodity and number of items they are willing to help the offerer to buy, they become a bypasser. Bypassers should show a barcode to the cashier when they pay. The cashier will scan the barcode and check whether the commodity and number of items are correct. After checking, the bypasser can pay and the cashier will put the items into a sealed bag with a receipt to ensure that the commodity will not be swapped. Meanwhile, the system will update the status of transaction, including commodity check, payment and sealing.
-
+<div style="text-align: justify;">A shopping list consists of items of commodity. Items of commodity state clearly the <u>name</u>, <u>picture</u>, <u>barcode</u>, <u>shopping point</u>, <u>price</u> and <u>number of items</u>. Potential bypassers will only receive posts of Memo when <u>their originally planned route and shopping points are approximate</u>.</div>
+<div style="margin-top: 12px; text-align: justify;">Potential bypassers <u>can choose the type of  commodity and the number of it accroding to their own interest</u>. By confirming the commodity and number of items they are willing to help the offerer to buy, they become a bypasser. Bypassers should <u>show a barcode</u> to the cashier when they pay. The cashier will scan the barcode and <u>check whether the commodity and number of items are correct</u>. After checking, the bypasser can pay and the cashier will put the items into a sealed bag with a receipt to ensure that the commodity will not be swapped. Meanwhile, the system will update the status of transaction, including commodity check, payment and sealing.</div>
 #### Place and Time for Settlement
 
-Potential bypassers will only receive relevant Memo when <u>the time for settlement matches with the estimated arrival time</u> and <u>the place for settlement is approximate to the orginally planned route</u>.
-
-
+<div style="text-align: justify;">Potential bypassers will only receive relevant Memo when <u>the time for settlement matches with the estimated arrival time</u> and <u>the place for settlement is approximate to the orginally planned route</u>.</div>
 
 
 
@@ -124,28 +115,23 @@ Potential bypassers will only receive relevant Memo when <u>the time for settlem
 
 #### Online Payment Platform
 
-Online payment platforms include digital wallets and paying agents. They help transfer money and deal with the paid deposit so that the offerers are reassured to pay in advance and trust is build among users. 
-
+<div style="text-align: justify;">Online payment platforms include <u>digital wallets</u> and <u>paying agents</u>. They help transfer money and deal with the paid deposit so that the offerers are reassured to pay in advance and trust is build among users.</div>
 
 
 #### Business Partners
 
-Shopping points (Stores) will do the quotation, promise to arrage refund for unchecked commodity, as well as putting the paid commodity into the sealed bag so as to avoid the commodity being swapped. 
-
-Once the sealed bag is opened, the commodity is checked. Stores reserve the right not to refund it. Regarding the commodity, the system only recommend those which are sealed or have standardized production, excluding cooked to order takeaways, vegetables, fruits, seafoods, meat, dairy and soy products that require constant low temperature storage. 
-
+<div style="text-align: justify;">Shopping points (Stores) will do the quotation, promise to arrage refund for unchecked commodity, as well as putting the paid commodity into the sealed bag so as to avoid the commodity being swapped.</div>
+<div style="margin-top: 12px; text-align: justify;">Once the sealed bag is opened, the commodity is checked. Stores reserve the right not to refund it. Regarding the commodity, the system <u>only recommends those which are sealed or have standardized production, excluding cooked to order takeaways, vegetables, fruits, seafoods, meat, dairy and soy products that require constant low temperature storage</u>.</div>
 
 
 #### Anonymous Communication
 
-To provide users with instant voice, text and image messaging while protecting users' privacy.
-
+<div style="text-align: justify;">To provide users with instant voice, text and image messaging while protecting users' privacy.</div>
 
 
 #### Two-way Evaluation
 
-Users can evaluate the interections they had with others after the settlement. Good ratings are sepcified by a default sentence while reasons must be given to verify bad ratings. 
-
+<div style="text-align: justify;">Users can evaluate the interections they had with others after the settlement. Good ratings are sepcified by a default sentence while reasons must be given to verify bad ratings.</div>
 | Offerer                            | Bypasser                         |
 | ---------------------------------- | -------------------------------- |
 | -                                  | Difficult to find the shops      |
@@ -157,9 +143,9 @@ Users can evaluate the interections they had with others after the settlement. G
 | The commodity is damaged or lacked | -                                |
 | Others                             | Others                           |
 
-If the users want to cancel the Memo of withdraw from an order, the reasons will be recorded by
+If the users want to cancel the Memo of withdraw from an order,
 
-the system as reference. 
+the reasons will be recorded by the system as reference. 
 
 | Reasons for Offerers to Cancel Order | Reasons for Bypassers to Withdraw |
 | ------------------------------------ | --------------------------------- |
@@ -172,15 +158,13 @@ the system as reference.
 
 #### Roadshow Algorithm
 
-The system will calculate the Shopping Points and Points of Settlement along the route using the Starting Points and Ending Points provided by the users. Users can let the system start roadshow algorithm by two ways:
-
+<div style="text-align: justify;">The system will calculate the Shopping Points and Points of Settlement along the route using the Starting Points and Ending Points provided by the users. Users can let the system start roadshow algorithm by two ways:</div>
 | Way                | Default Starting Point                   | Default Destination      | Set Notification |
 | ------------------ | ---------------------------------------- | ------------------------ | ---------------- |
 | Directional Search | Current location or to enter by yourself | Must enter by yourself   | √                |
 | General Search     | Preset frequent location                 | Preset frequent location | √                |
 
-The system defines 'extra travel distrance no more than 15 minutes' as 'bypassing' with a speed of 1.25 meters per second. Ideal situations will be specially marked:
-
+<div style="text-align: justify;">The system defines 'extra travel distrance no more than 15 minutes' as 'bypassing' with a speed of 1.25 meters per second. Ideal situations will be specially marked:</div>
 | Ideal Situations                                             | Brief Introduction             |
 | ------------------------------------------------------------ | ------------------------------ |
 | Shopping Point & Point of Settlement are <u>approximate</u>  | Settle after purchased         |
@@ -191,11 +175,11 @@ The system defines 'extra travel distrance no more than 15 minutes' as 'bypassin
 | Point of Settlement & My Starting Point are the <u>approximate</u> (if consider route of return) | Settle near the Starting Point |
 
 <div style="text-align: right"><small><i>（Approximate：within 50m）</i></small></div>
-### Business Model 
+### <u>Business Model</u> 
 
 #### Geo-targeting Advertising
 
-System will display advertisement of related commodity according to geographic location. 
+<div style="text-align: justify;">System will display advertisement of related commodity according to geographic location.</div>
 
 
 
@@ -251,7 +235,7 @@ System will display advertisement of related commodity according to geographic l
 
 ------
 
-### Appendix 1
+### Appendix I
 
 <img style="display: block;margin-left: auto;margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Flow.jpg" />
 
@@ -259,7 +243,7 @@ System will display advertisement of related commodity according to geographic l
 
 
 
-### Appendix 2
+### Appendix II
 
 ##### Exemplify by a can of Coca Cola
 
