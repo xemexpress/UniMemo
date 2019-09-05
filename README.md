@@ -1,10 +1,10 @@
-Updated: 2019.9.6.1&nbsp;-&nbsp;Please <b>always</b> refer to the detailed version here: [README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)
+Updated: 2019.9.6.2&nbsp;-&nbsp;Please <b>always</b> refer to the detailed version here: [README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)
 
 # UniMemo -- Excavation of Convenience
 
 ### To Be Simple
 
-Take 10 % of price of commodity as commission，purchase + delivery.
+Take 10 % of price of commodity as commission，purchase + deliver in passing.
 
 ### <u>Components of a Memo</u>
 
@@ -19,13 +19,3 @@ Take 10 % of price of commodity as commission，purchase + delivery.
 | Two-way&nbsp;Evaluation           | <u>Value opinions</u>.<div>Record and follow up interactions with low rating.</div> |
 | Anonymous&nbsp;Communication      | <u>Respect privacy</u>.<div>Ensure personal data are always kept in&nbsp;strictest&nbsp;confidence.</div> |
 | Roadshow&nbsp;Algorithm           | <u>Connect convenience</u>.<div>Search for the most relevant Memo.</div> |
-
-
-
-### <u>Business Model</u>
-
-#### Geo-targeting Advertising
-
-<div style="text-align: justify;">
-System will display advertisement of related commodity according to geographic location.
-</div>

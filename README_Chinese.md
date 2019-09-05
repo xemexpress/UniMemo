@@ -1,10 +1,10 @@
-Updated: 2019.9.6.1&nbsp;-&nbsp;Please <b>always</b> refer to the detailed version here: [README_Chinese.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)
+Updated: 2019.9.6.2&nbsp;-&nbsp;Please <b>always</b> refer to the detailed version here: [README_Chinese.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)
 
 # UniMemo 發掘順便
 
 ### TL;DR
 
-以商品實付金額的10%作為酬金，代買+送遞。
+以商品實付金額的10%作為酬金，順便代買+送遞。
 
 ### <u>Memo紙</u>
 
@@ -19,11 +19,3 @@ Updated: 2019.9.6.1&nbsp;-&nbsp;Please <b>always</b> refer to the detailed versi
 | 雙向評準     | <u>重視意見</u>。低評的互動會被紀錄並跟進。|
 | 隱匿傳訊     | <u>尊重私隱</u>。確保個人資料時刻保密。    |
 | 路線演算     | <u>連接順便</u>。搜尋最相關的Memo。      |
-
-
-
-### <u>盈利模式</u>
-
-#### 地域廣告
-
-系統根據地理定位向用戶展示相關的產品廣告。

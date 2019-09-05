@@ -1,12 +1,12 @@
 <div style="text-align: right; font-size: 50%;">
-Updated: 2019.9.6.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.9.6.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
-# UniMemo--Excavation of Convenience
+# UniMemo -- Excavation of Convenience
 
 ### To Be Simple
 
-Take 10 % of price of commodity as commission，purchase + delivery.
+Take 10 % of price of commodity as commission，purchase & deliver in passing.
 
 ### <u>Components of a Memo</u>
 
