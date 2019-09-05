@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size: 50%;">
-Updated: 2019.9.5.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.9.5.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
 # UniMemo--Excavation of Convenience
@@ -282,7 +282,7 @@ System will display advertisement of related commodity according to geographic l
 
 ### Appendix I
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Flow.jpg" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Stream.jpg" />
 
 
 
@@ -292,4 +292,4 @@ System will display advertisement of related commodity according to geographic l
 
 ##### Exemplify by a can of Coca Cola
 
-![cola](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow/Cola.jpg)
+![cola](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Stream/Cola.jpg)

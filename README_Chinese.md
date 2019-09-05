@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size:50%">
-Updated: 2019.9.4.3&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
+Updated: 2019.9.5.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
 </div>
 
 # UniMemo 發掘順便
@@ -22,13 +22,13 @@ Updated: 2019.9.4.3&nbsp;-&nbsp;Please <b>always</b> refer to the latest version
 | 隱匿傳訊     | <u>尊重私隱</u>。確保個人資料時刻保密。    |
 | 路線演算     | <u>連接順便</u>。搜尋最相關的Memo。      |
 
-![流程](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow/Flow.jpg)
+![流程](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Stream/Stream_Chinese.jpg)
 
 ### 詳細版本
 
 ##### 用一罐可樂做例子
 
-![cola](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Flow/Cola.jpg)
+![cola](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Stream/Cola_Chinese.jpg)
 
 ### <u>Memo紙</u>
 
@@ -185,7 +185,6 @@ Updated: 2019.9.4.3&nbsp;-&nbsp;Please <b>always</b> refer to the latest version
 
 
 
-
 ### <u>盈利模式</u>
 
 #### 地域廣告
@@ -198,4 +197,4 @@ Updated: 2019.9.4.3&nbsp;-&nbsp;Please <b>always</b> refer to the latest version
 
 ### 附件一
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Flow.jpg" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Stream_Chinese.jpg" />
