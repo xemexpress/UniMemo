@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size:50%">
-Updated: 2019.9.5.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
+Updated: 2019.9.6.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
 </div>
 
 # UniMemo 發掘順便
@@ -22,13 +22,35 @@ Updated: 2019.9.5.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version
 | 隱匿傳訊     | <u>尊重私隱</u>。確保個人資料時刻保密。    |
 | 路線演算     | <u>連接順便</u>。搜尋最相關的Memo。      |
 
-![流程](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Stream/Stream_Chinese.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 詳細版本
-
-##### 用一罐可樂做例子
-
-![cola](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Stream/Cola_Chinese.jpg)
 
 ### <u>Memo紙</u>
 
@@ -80,15 +102,29 @@ Updated: 2019.9.5.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version
 
 承諾按金是出單人在出單前已支付的按金，用於向接單人支付代買商品及酬金。潛在接單人在代買前須對目標商品單項進行「確認」，成功確認才會受按金保障。若交收時<u>接單人未能交付包裝完好無缺的商品</u>，例如包裝曾被開啟或破裂，<u>出單人有權決定是否支付商品</u>。若出單人不向接單人確認支付，接單人則無須交付相關商品。
 
+
+
 #### 代買清單
 
 代買清單由商品單項組成，商品單項明確顯示代買商品的<u>名稱</u>、<u>實物圖片</u>、<u>條碼</u>、<u>相關代買點</u>、<u>售價</u>以及<u>代買數量</u>。<u>代買點與原計劃路線相近</u>時，潛在接單人才有機會收到相關Memo。
 
 潛在接單人<u>可按其意願選擇商品單項並確認數量</u>成為接單人。接單人代買時，須向收銀處職員<u>出示代買單號</u>，職員掃描單號<u>導入代買清單</u>，並按照清單<u>驗對商品及數量</u>。核對無誤後，接單人方可支付，而職員則把商品放入特定的密封用袋並附上收據，確保商品不被調換。過程中，系統會即時更新清單狀態，包括商品驗對、支付和封裝。
 
+
+
 #### 交收時地
 
 交收時地是交收的時段和地點。<u>交收時段與新計劃路線的預計抵達時間相符</u>以及<u>交收點與原計劃路線相近</u>時，潛在接單人才有機會收到相關Memo。
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -135,9 +171,9 @@ Updated: 2019.9.5.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version
 | 物品損壞或缺少 | -            |
 | 其他          | 其他         |
 
-
-
+<div style="margin-top: 24px;">
 若用戶需要取消Memo或代買確認，相關原因須被紀錄作為系統參考。
+</div>
 
 | 出單人的取消原因 | 接單人的撤銷原因 |
 | ------------- | ------------- |
@@ -157,9 +193,9 @@ Updated: 2019.9.5.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version
 | 具向搜尋 | 當前位置或自行輸入 | 須自行輸入   | √       |
 | 一般搜尋 | 預設常到地點                     | 預設常到地點 | √       |
 
-
-
-系統以每秒1.25米的步速，默認「額外路程需時不多於15分鐘」的Memo為「順便」。當中較理想的情況會作特別標示：
+<div style="margin-top: 24px;">
+  <u>系統以每秒1.25米的步速，默認「額外路程需時不多於15分鐘」的Memo為「順便」</u>。當中較理想的情況會作特別標示：
+</div>
 
 | 較理想的情況                            | 簡述      |
 | ------------------------------------- | -------- |
@@ -185,6 +221,24 @@ Updated: 2019.9.5.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### <u>盈利模式</u>
 
 #### 地域廣告
@@ -195,6 +249,12 @@ Updated: 2019.9.5.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version
 
 ------
 
-### 附件一
+### 附件一：流程
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Stream_Chinese.jpg" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Stream/Stream_Chinese.jpg" alt="stream" />
+
+
+
+### 附件二：用一罐可樂做例子
+
+<img style="display: block; width: 85%; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Stream/Cola_Chinese.jpg" alt="cola" />

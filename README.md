@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size: 50%;">
-Updated: 2019.9.5.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.9.6.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
 # UniMemo--Excavation of Convenience
@@ -104,6 +104,8 @@ Take 10 % of price of commodity as commission，purchase + delivery.
 Deposit is the amount of money paid by an offerer before sending out the Memo. It is used to pay for the commodity and reward for the bypasser. The bypasser can only secure the deposit after accepting the order to help the offerer to buy the commodity in passing. <u>During settlement, the offerer reserves the right to decide whether to pay for the commodity if it is not in its intact form</u>, e.g. the package is opened or damaged. The bypasser does not need to give the commodity to the offerer if the offerer does not pay.
 </div>
 
+
+
 #### Shopping List
 
 <div style="text-align: justify;">
@@ -114,15 +116,13 @@ A shopping list consists of items of commodity. Items of commodity state clearly
 Potential bypassers <u>can choose the type of  commodity and the number of it accroding to their own interest</u>. By confirming the commodity and number of items they are willing to help the offerer to buy, they become a bypasser. Bypassers should <u>show a barcode</u> to the cashier when they pay. The cashier will scan the barcode and <u>check whether the commodity and number of items are correct</u>. After checking, the bypasser can pay and the cashier will put the items into a sealed bag with a receipt to ensure that the commodity will not be swapped. Meanwhile, the system will update the status of transaction, including commodity check, payment and sealing.
 </div>
 
+
+
 #### Place and Time for Settlement
 
 <div style="text-align: justify;">
 Potential bypassers will only receive relevant Memo when <u>the time for settlement matches with the estimated arrival time</u> and <u>the place for settlement is approximate to the orginally planned route</u>.
 </div>
-
-
-
-
 
 
 
@@ -280,16 +280,12 @@ System will display advertisement of related commodity according to geographic l
 
 ------
 
-### Appendix I
+### Appendix I: Stream
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Stream.jpg" />
-
-
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Stream/Stream.jpg" />
 
 
 
-### Appendix II
+### Appendix II: Exemplify by a can of Coca Cola
 
-##### Exemplify by a can of Coca Cola
-
-![cola](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Stream/Cola.jpg)
+<img style="display: block; width: 63%; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/Stream/Cola.jpg" alt="cola" />
