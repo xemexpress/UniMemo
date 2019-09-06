@@ -4,7 +4,7 @@ Updated: 2019.9.6.2&nbsp;-&nbsp;Please <b>always</b> refer to the detailed versi
 
 ### TL;DR
 
-以商品實付金額的10%作為酬金，順便代買+送遞。
+以商品實付金額的10%作為酬金，順便代買&送遞。
 
 ### <u>Memo紙</u>
 

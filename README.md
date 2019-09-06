@@ -4,7 +4,7 @@ Updated: 2019.9.6.2&nbsp;-&nbsp;Please <b>always</b> refer to the detailed versi
 
 ### To Be Simple
 
-Take 10 % of price of commodity as commission，purchase + deliver in passing.
+Take 10 % of price of commodity as commission，purchase & deliver in passing.
 
 ### <u>Components of a Memo</u>
 
