@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size:50%">
-Updated: 2019.9.6.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
+Updated: 2019.9.8.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
 </div>
 
 # UniMemo 發掘順便
@@ -22,29 +22,7 @@ Updated: 2019.9.6.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version
 | 隱匿傳訊     | <u>尊重私隱</u>。確保個人資料時刻保密。    |
 | 路線演算     | <u>連接順便</u>。搜尋最相關的Memo。      |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Positioning](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Positioning.jpg)
 
 
 
@@ -207,8 +185,6 @@ Updated: 2019.9.6.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version
 | 交收點與我的出發地<u>相近</u>（若考慮回程） | 近起點交收 |
 
 <div style="text-align: right"><small><i>（相近：50m以內）</i></small></div>
-
-
 
 
 

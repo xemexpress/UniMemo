@@ -1,4 +1,4 @@
-Updated: 2019.9.6.2&nbsp;-&nbsp;Please <b>always</b> refer to the detailed version here: [README_Chinese.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)
+Updated: 2019.9.8.1&nbsp;-&nbsp;Please <b>always</b> refer to the detailed version here: **[README_Chinese.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
 
 # UniMemo 發掘順便
 
@@ -19,3 +19,5 @@ Updated: 2019.9.6.2&nbsp;-&nbsp;Please <b>always</b> refer to the detailed versi
 | 雙向評準     | <u>重視意見</u>。低評的互動會被紀錄並跟進。|
 | 隱匿傳訊     | <u>尊重私隱</u>。確保個人資料時刻保密。    |
 | 路線演算     | <u>連接順便</u>。搜尋最相關的Memo。      |
+
+![Positioning](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Positioning.jpg)
