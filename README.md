@@ -14,10 +14,10 @@ Take 10 % of price of commodity as commission，purchase & deliver in passing.
 
 | Key Support                       | Functions                                                    |
 | --------------------------------- | ------------------------------------------------------------ |
-| Online&nbsp;Payment&nbsp;Platform | <u>Build trust</u>.<div>Provide reassured refund as premise of corporation.</div> |
-| Business&nbsp;Partners            | <u>Protect interests</u>.<div>Refund commodity that was not settled.</div> |
-| Two-way&nbsp;Evaluation           | <u>Value opinions</u>.<div>Record and follow up interactions with low rating.</div> |
-| Anonymous&nbsp;Communication      | <u>Respect privacy</u>.<div>Ensure personal data are always kept in&nbsp;strictest&nbsp;confidence.</div> |
-| Roadshow&nbsp;Algorithm           | <u>Connect convenience</u>.<div>Search for the most relevant Memo.</div> |
+| Online&nbsp;Payment&nbsp;Platform | <u>Build trust</u>.<div><small>Provide reassured refund as premise of corporation.</small></div> |
+| Business&nbsp;Partners            | <u>Protect interests</u>.<div><small>Refund commodity that was not settled.</small></div> |
+| Two-way&nbsp;Evaluation           | <u>Value opinions</u>.<div><small>Record and follow up interactions with low rating.</small></div> |
+| Anonymous&nbsp;Communication      | <u>Respect privacy</u>.<div><small>Ensure personal data are always kept in&nbsp;strictest&nbsp;confidence.</small></div> |
+| Roadshow&nbsp;Algorithm           | <u>Connect convenience</u>.<div><small>Search for the most relevant Memo.</small></div> |
 
 ![Positioning](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Positioning.jpg)

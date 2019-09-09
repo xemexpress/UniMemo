@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size:50%">
-Updated: 2019.9.8.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
+Updated: 2019.9.9.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
 </div>
 
 # UniMemo 發掘順便
@@ -19,7 +19,7 @@ Updated: 2019.9.8.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version
 | 電子支付平台 | <u>建立信任</u>。提供安心墊支的合作前提。   |
 | 合作商戶     | <u>保障權益</u>。承諾為未查收的商品退款。  |
 | 雙向評準     | <u>重視意見</u>。低評的互動會被紀錄並跟進。|
-| 隱匿傳訊     | <u>尊重私隱</u>。確保個人資料時刻保密。    |
+| 隱匿通訊    | <u>尊重私隱</u>。確保個人資料時刻保密。    |
 | 路線演算     | <u>連接順便</u>。搜尋最相關的Memo。      |
 
 ![Positioning](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Positioning.jpg)
@@ -128,9 +128,9 @@ Updated: 2019.9.8.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version
 
 
 
-#### 隱匿傳訊
+#### 隱匿通訊
 
-在確保用戶私隱安全的前提下，為用戶提供即時語音、文字及圖像的傳訊功能。
+在確保用戶私隱安全的前提下，為用戶提供即時語音、文字及圖像的通訊功能。
 
 
 
