@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size:50%">
-Updated: 2019.9.9.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
+Updated: 2019.9.11.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
 </div>
 
 # UniMemo 發掘順便
@@ -169,7 +169,7 @@ Updated: 2019.9.9.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version
 | 方式    | 默認起點                         | 默認終點    | 可設通知 |
 | ------- | ------------------------------ | ---------- | ------- |
 | 具向搜尋 | 當前位置或自行輸入 | 須自行輸入   | √       |
-| 一般搜尋 | 預設常到地點                     | 預設常到地點 | √       |
+| 一般搜尋 | 預設常到地點及當前位置         | 預設常到地點 | √       |
 
 <div style="margin-top: 24px;">
   <u>系統以每秒1.25米的步速，默認「額外路程需時不多於15分鐘」的Memo為「順便」</u>。當中較理想的情況會作特別標示：

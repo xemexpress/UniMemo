@@ -1,4 +1,4 @@
-Updated: 2019.9.8.1&nbsp;-&nbsp;Please <b>always</b> refer to the detailed version here: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)**
+Updated: 2019.9.11.1&nbsp;-&nbsp;Please <b>always</b> refer to the detailed version here: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)**
 
 # UniMemo -- Excavation of Convenience
 
