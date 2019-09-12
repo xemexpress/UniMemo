@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size:50%">
-Updated: 2019.9.11.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
+Updated: 2019.9.12.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
 </div>
 
 # UniMemo 發掘順便
@@ -190,31 +190,31 @@ Updated: 2019.9.11.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 
 
 
+## 關於安全
+
+用戶的安全是我們最重視的一環。
+
+1. **身份證及人臉認證**
+
+   程式互動前，用戶須上載永久性居民身份證（清晰可見、完整四角）和頭像照片（清晰、完整臉部、不戴太陽眼鏡及帽）作認證。
+
+2. **一鍵警報**
+
+   交收期間，用戶如有需要可使用一鍵警報，把你的實時位置向執法當局呈報並求助。
+
+3. **行程分享**
+
+   用戶可與信任的聯絡人分享即時位置和行程狀態。
+
+4. **雙向評準**
+
+   低評的Memo互動將會被紀錄並跟進，相關用戶將可能被移除。
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### <u>盈利模式</u>
+## 盈利模式
 
 #### 地域廣告
 

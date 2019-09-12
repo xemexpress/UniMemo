@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size: 50%;">
-Updated: 2019.9.11.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.9.12.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
 # UniMemo -- Excavation of Convenience
@@ -200,37 +200,35 @@ The system defines 'extra travel distrance no more than 15 minutes' as 'bypassin
 <small><i>（Approximate：within 50m）</i></small>
 </div>
 
-### <u>Business Model</u>
+## About Safety
+
+Safety is our top priority.
+
+1. **Identity and Face Verification**
+
+   Before any in-app interaction, you need to upload a picture of your Permanent ID Card (clearly visible with four corners shown) and a profile photo (clear, whole face with sunglasses and hat off).
+
+2. **Emergency Button**
+
+   Quickly call and share your real-time location with authorities to get help during the settlement whenever necessary.
+
+3. **Share My Trip**
+
+   Share your location and trip status with people you trust.
+
+4. **Two-way Evaluation**
+
+   Interactions with low ratings are recorded and followed up, and users may be removed.
+
+
+
+## Business Model
 
 #### Geo-targeting Advertising
 
 <div style="text-align: justify;">
 System will display advertisement of related commodity according to geographic location.
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
