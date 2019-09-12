@@ -22,24 +22,24 @@ Take 10 % of price of commodity as commission，purchase & deliver in passing.
 
 ![Positioning](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Positioning.jpg)
 
-
+<br/><br/>
 
 # About Safety
 
 Safety is our top priority.
 
-1. Identity and Face Verification
+1. **Identity and Face Verification**
 
    Before any in-app interaction, you need to upload a picture of your Permanent ID Card (clearly visible with four corners shown) and a profile photo (clear, whole face with sunglasses and hat off).
 
-2. Emergency Button
+2. **Emergency Button**
 
    Quickly call and share your real-time location with authorities to get help during the settlement whenever necessary.
 
-3. Share My Trip
+3. **Share My Trip**
 
    Share your location and trip status with people you trust.
 
-4. Two-way Evaluation
+4. **Two-way Evaluation**
 
    Interactions with low ratings are recorded and followed up, and users may be removed.
