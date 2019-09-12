@@ -1,4 +1,4 @@
-Updated: 2019.9.12.1&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
+Updated: 2019.9.12.2&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
 
 # UniMemo 發掘順便
 
@@ -30,15 +30,15 @@ Updated: 2019.9.12.1&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** 
 
 1. **身份證及人臉認證**
 
-   程式互動前，用戶須上載永久性居民身份證（清晰可見、完整四角）和頭像照片（清晰、完整臉部、不戴太陽眼鏡及帽）作認證。
+   Memo互動前，你需要上載你的永久性居民身份證圖片（清晰可見、完整四角）和頭像照片（清晰、完整臉部、不戴太陽眼鏡及帽）作認證。
 
 2. **一鍵警報**
 
-   交收期間，用戶如有需要可使用一鍵警報，把你的實時位置向執法當局呈報並求助。
+   若交收期間有需要，你可使用一鍵警報，把你的位置和Memo互動詳情向執法部門呈報並求助。
 
-3. **行程分享**
+3. **Memo互動分享**
 
-   用戶可與信任的聯絡人分享即時位置和行程狀態。
+   你可與親友分享你的即時位置和Memo互動狀態。
 
 4. **雙向評準**
 
