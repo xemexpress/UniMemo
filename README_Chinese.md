@@ -1,4 +1,4 @@
-Updated: 2019.9.12.2&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
+Updated: 2019.9.12.3&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
 
 # UniMemo 發掘順便
 
@@ -30,7 +30,7 @@ Updated: 2019.9.12.2&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** 
 
 1. **身份證及人臉認證**
 
-   Memo互動前，你需要上載你的永久性居民身份證圖片（清晰可見、完整四角）和頭像照片（清晰、完整臉部、不戴太陽眼鏡及帽）作認證。
+   在提供電郵和手機號碼進行註冊後，你需要上載你的永久性居民身份證圖片（清晰可見、完整四角）和頭像照片（清晰、完整臉部、不戴太陽眼鏡及帽）作進一步認證。
 
 2. **一鍵警報**
 

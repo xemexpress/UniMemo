@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size: 50%;">
-Updated: 2019.9.12.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.9.12.3&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
 # UniMemo -- Excavation of Convenience
@@ -206,7 +206,7 @@ Safety is our top priority.
 
 1. **Identity and Face Verification**
 
-   Before any Memo interaction, you need to upload a picture of your Permanent ID Card (clearly visible with four corners shown) and a profile photo (clear, whole face with sunglasses and hat off) for verification.
+   After providing email and mobile number for registration, you need to upload a picture of your Permanent ID Card (clearly visible with four corners shown) and a profile photo (clear, whole face with sunglasses and hat off) for further verification.
 
 2. **Emergency Button**
 
