@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size: 50%;">
-Updated: 2019.9.13.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.9.13.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
 # UniMemo -- Excavation of Convenience
@@ -172,7 +172,11 @@ reasons will be recorded by the system as reference.
 #### Roadshow Algorithm
 
 <div style="text-align: justify;">
-The system will calculate the Shopping Points and Points of Settlement along the route using the Starting Points and Ending Points provided by the users. Users can let the system start roadshow algorithm by two ways:
+The system defines '<u>extra travel distrance no more than 15 minutes</u>' as 'bypassing' with a speed of 1.25 meters per second by default.
+</div>
+
+<div style="margin-top: 10px; text-align: justify;">
+The system will calculate the Shopping Points and Points of Settlement along the route using the Starting Points (may consider route of return) and Ending Points provided by the users. Users can let the system start roadshow algorithm by two ways:
 </div>
 
 | Way                | Default<div>Starting Point</div>                             | Default<div>Destination</div>  | Set<div>Notification</div> |
@@ -180,11 +184,8 @@ The system will calculate the Shopping Points and Points of Settlement along the
 | Directional Search | Current location<div>or to enter by yourself</div>           | Must enter by yourself         | √                          |
 | General Search     | Preset frequent&nbsp;locations<div>and current location</div> | Preset frequent&nbsp;locations | √                          |
 
-
-
-
 <div style="text-align: justify;">
-The system defines 'extra travel distrance no more than 15 minutes' as 'bypassing' with a speed of 1.25 meters per second. Ideal situations will be specially marked:
+Ideal situations will be specially marked:
 </div>
 
 | Ideal Situations                                             | Brief Introduction             |

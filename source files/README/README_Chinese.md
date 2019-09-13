@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size:50%">
-Updated: 2019.9.13.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
+Updated: 2019.9.13.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
 </div>
 
 # UniMemo 發掘順便
@@ -80,8 +80,6 @@ Updated: 2019.9.13.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 
 承諾按金是出單人在出單前已支付的按金，用於向接單人支付代買商品及酬金。潛在接單人在代買前須對目標商品單項進行「確認」，成功確認才會受按金保障。若交收時<u>接單人未能交付包裝完好無缺的商品</u>，例如包裝曾被開啟或破裂，<u>出單人有權決定是否支付商品</u>。若出單人不向接單人確認支付，接單人則無須交付相關商品。
 
-
-
 #### 代買清單
 
 代買清單由商品單項組成，商品單項明確顯示代買商品的<u>名稱</u>、<u>實物圖片</u>、<u>條碼</u>、<u>相關代買點</u>、<u>售價</u>以及<u>代買數量</u>。<u>代買點與原計劃路線相近</u>時，潛在接單人才有機會收到相關Memo。
@@ -93,8 +91,6 @@ Updated: 2019.9.13.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 #### 交收時地
 
 交收時地是交收的時段和地點。<u>交收時段與新計劃路線的預計抵達時間相符</u>以及<u>交收點與原計劃路線相近</u>時，潛在接單人才有機會收到相關Memo。
-
-
 
 
 
@@ -149,7 +145,7 @@ Updated: 2019.9.13.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 | 物品損壞或缺少 | -            |
 | 其他          | 其他         |
 
-<div style="margin-top: 24px;">
+<div style="margin-top: 27px;">
 若用戶需要取消Memo或代買確認，相關原因須被紀錄作為系統參考。
 </div>
 
@@ -164,6 +160,8 @@ Updated: 2019.9.13.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 
 #### 路線演算
 
+系統以每秒1.25米的步速，默認「<u>額外路程需時不多於15分鐘</u>」的Memo為「順便」。
+
 系統根據用戶提供的起點和終點（或考慮來回），演算途經代買點及交收點的路線。額外路程需時較少的Memo將獲前置。用戶可循以下方式讓系統啟動路線演算：
 
 | 方式    | 默認起點                         | 默認終點    | 可設通知 |
@@ -171,8 +169,8 @@ Updated: 2019.9.13.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 | 具向搜尋 | 當前位置或自行輸入 | 須自行輸入   | √       |
 | 一般搜尋 | 預設常到地點及當前位置         | 預設常到地點 | √       |
 
-<div style="margin-top: 24px;">
-  <u>系統以每秒1.25米的步速，默認「額外路程需時不多於15分鐘」的Memo為「順便」</u>。當中較理想的情況會作特別標示：
+<div style="margin-top: 27px;">
+  當中較理想的情況會作特別標示：
 </div>
 
 | 較理想的情況                            | 簡述      |
@@ -185,8 +183,6 @@ Updated: 2019.9.13.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 | 交收點與我的出發地<u>相近</u>（若考慮回程） | 近起點交收 |
 
 <div style="text-align: right"><small><i>（相近：50m以內）</i></small></div>
-
-
 
 
 
@@ -219,6 +215,10 @@ Updated: 2019.9.13.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 #### 地域廣告
 
 系統根據地理定位向用戶展示相關的產品廣告。
+
+
+
+
 
 
 
