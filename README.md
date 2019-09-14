@@ -1,4 +1,4 @@
-Updated: 2019.9.13.3&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
+Updated: 2019.9.14.1&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
 
 # UniMemo -- Excavation of Convenience
 
@@ -15,7 +15,7 @@ Take 10 % of price of commodity as commission，purchase & deliver in passing.
 | Key Support                       | Functions                                                    |
 | --------------------------------- | ------------------------------------------------------------ |
 | Online&nbsp;Payment&nbsp;Platform | <u>Build trust</u>.<div><small>Peace of mind for advance payments.</small></div> |
-| Business&nbsp;Partners            | <u>Protect interests</u>.<div><small>Refund commodity that was not settled.</small></div> |
+| Business&nbsp;Partners            | <u>Protect interests</u>.<div><small>Refund for unchecked commodity.</small></div> |
 | Two-way&nbsp;Evaluation           | <u>Value opinions</u>.<div><small>Record and follow up low-rated interactions</small></div> |
 | Anonymous&nbsp;Communication      | <u>Respect privacy</u>.<div><small>Ensure personal information stays private.</small></div> |
 | Roadshow&nbsp;Algorithm           | <u>Connect convenience</u>.<div><small>Search for Memo on your way.</small></div> |

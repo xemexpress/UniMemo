@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size:50%">
-Updated: 2019.9.13.4&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
+Updated: 2019.9.14.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
 </div>
 
 # UniMemo 發掘順便
@@ -118,7 +118,7 @@ Updated: 2019.9.13.4&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 
 #### 合作商戶
 
-合作商戶為商品單項報價，並承諾為用戶未經查收並且完好的商品安排退款，包括安排職員把接單人已代買的商品放入特定的密封用袋，使袋內商品無法不為意地被調換。密封用袋一經開啟，即表明商品已被查收，商戶將有權不為其退款。
+合作商戶為商品單項報價，並<u>承諾為用戶之未經查收並且完好的商品安排退款</u>，包括安排職員把接單人已代買的商品放入特定的密封用袋，使袋內商品無法不為意地被調換。密封用袋一經開啟，即表明商品已被查收，商戶將有權不為其退款。
 
 商品單項方面，本系統<u>只建議經標準化生產或有密封包裝的商品，不包括經即場製作的熟食外賣類、蔬菜類、生果類、海鮮類、鮮肉類及需恆低溫儲存的奶製品和豆製品商品</u>。
 
