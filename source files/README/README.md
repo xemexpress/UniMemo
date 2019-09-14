@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size: 50%;">
-Updated: 2019.9.14.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.9.14.3&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
 # UniMemo -- Excavation of Convenience
@@ -53,7 +53,7 @@ Take 10 % of price of commodity as commission，purchase & deliver in passing.
 5. Post the Memo. If it is accepted by a bypasser, follow the specified place and time to settle the transaction. 
 
    ```markdown
-   If you want to cancel a Memo which has not been accepted by a bypasser, the deposit paid in advance will be fully returned. Otherwise, the price paid in advance for the commodity will be returned to the offerer while the remaining deposit, which is the reward of 10% of the price, will be given to the bypasser as a compensation.
+   If you want to cancel a Memo which has not been accepted by a bypasser, the deposit paid in advance will be fully returned. Otherwise, the price paid in advance for the commodity will be returned to the offerer while the remaining deposit, which is the reward of 10 % of the price, will be given to the bypasser as a compensation.
    ```
 
 
