@@ -1,12 +1,12 @@
 <div style="text-align: right; font-size:50%">
-Updated: 2019.9.14.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
+Updated: 2019.9.16.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
 </div>
 
 # UniMemo 發掘順便
 
 ### TL;DR
 
-以商品實付金額的10%作為酬金，順便代買&送遞。
+以商品售價的10%作為酬金，順便代買&送遞。
 
 ### <u>Memo紙</u>
 
@@ -32,7 +32,7 @@ Updated: 2019.9.14.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 
 ### <u>Memo紙</u>
 
-##### 作為出單人，以商品實付金額的10%作為酬金，讓順路的人幫你買東西。基本步驟如下：
+##### 作為出單人，以商品售價的10%作為酬金，讓順路的人幫你買東西。基本步驟如下：
 
 1. 搜尋商品關鍵字。
 
@@ -60,7 +60,7 @@ Updated: 2019.9.14.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
    若你取消的Memo仍未獲接單人確認，承諾按金會全數返還，否則，系統只會返還墊支部分，酬金部分則由接單人獲得。
    ```
 
-##### 作為接單人，以商品實付金額的10%作為酬金，順便幫人買東西。基本步驟如下：
+##### 作為接單人，以商品售價的10%作為酬金，順便幫人買東西。基本步驟如下：
 
 1. 輸入你正要前往的目的地。
 
