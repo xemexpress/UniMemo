@@ -1,8 +1,8 @@
 <div style="text-align: right; font-size: 50%;">
-Updated: 2019.9.14.3&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.9.16.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
-# UniMemo -- Excavation of Convenience
+# UniMemo -- Convenience in Passing
 
 ### To Be Simple
 
