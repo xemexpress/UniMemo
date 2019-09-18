@@ -1,4 +1,4 @@
-Updated: 2019.9.16.1&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
+Updated: 2019.9.18.1&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
 
 [Home](https://github.com/xemexpress/UniMemo) | [English](https://github.com/xemexpress/UniMemo/blob/master/README.md) | **中文**
 
@@ -17,7 +17,7 @@ Updated: 2019.9.16.1&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** 
 | 關鍵配套     | 作用                                  |
 | ---------- | ------------------------------------- |
 | 電子支付平台 | <u>建立信任</u>。墊支保障，安心付款。 |
-| 合作商戶     | <u>保障權益</u>。承諾為未查收的商品退款。  |
+| 合作商戶     | <u>保障權益</u>。讓每次代買都可靠且可退款。 |
 | 雙向評準     | <u>重視意見</u>。紀錄並跟進低評的互動。 |
 | 隱匿通訊    | <u>尊重私隱</u>。確保個人資料時刻保密。    |
 | 路線演算     | <u>連接順便</u>。搜尋路途上順便的Memo。 |

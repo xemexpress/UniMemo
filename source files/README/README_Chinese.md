@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size:50%">
-Updated: 2019.9.16.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
+Updated: 2019.9.18.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
 </div>
 
 # UniMemo 發掘順便
@@ -17,7 +17,7 @@ Updated: 2019.9.16.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 | 關鍵配套     | 作用                                  |
 | ---------- | ------------------------------------- |
 | 電子支付平台 | <u>建立信任</u>。墊支保障，安心付款。 |
-| 合作商戶     | <u>保障權益</u>。承諾為未查收的商品退款。  |
+| 合作商戶     | <u>保障權益</u>。讓每次代買都可靠且可退款。 |
 | 雙向評準     | <u>重視意見</u>。紀錄並跟進低評的互動。 |
 | 隱匿通訊    | <u>尊重私隱</u>。確保個人資料時刻保密。    |
 | 路線演算     | <u>連接順便</u>。搜尋路途上順便的Memo。 |
@@ -84,7 +84,7 @@ Updated: 2019.9.16.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 
 代買清單由商品單項組成，商品單項明確顯示代買商品的<u>名稱</u>、<u>實物圖片</u>、<u>條碼</u>、<u>相關代買點</u>、<u>售價</u>以及<u>代買數量</u>。<u>代買點與原計劃路線相近</u>時，潛在接單人才有機會收到相關Memo。
 
-潛在接單人<u>可按其意願選擇商品單項並確認數量</u>成為接單人。接單人代買時，須向收銀處職員<u>出示代買單號</u>，職員掃描單號<u>導入代買清單</u>，並按照清單<u>驗對商品及數量</u>。核對無誤後，接單人方可支付，而職員則把商品放入特定的密封用袋並附上收據，確保商品不被調換。過程中，系統會即時更新清單狀態，包括商品驗對、支付和封裝。
+潛在接單人<u>可按其意願選擇商品單項並確認數量</u>成為接單人。接單人代買時，須向收銀處職員<u>出示代買單號</u>，職員掃描單號<u>導入代買清單</u>，並按照清單<u>點核商品及數量</u>。核對無誤後，接單人方可支付，而職員則把商品放入特定的密封用袋並附上收據，確保商品不被調換。過程中，系統會即時更新清單狀態，包括商品點核、支付和封裝。
 
 
 
@@ -118,7 +118,7 @@ Updated: 2019.9.16.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 
 #### 合作商戶
 
-合作商戶為商品單項報價，並<u>承諾為用戶之未經查收並且完好的商品安排退款</u>，包括安排職員把接單人已代買的商品放入特定的密封用袋，使袋內商品無法不為意地被調換。密封用袋一經開啟，即表明商品已被查收，商戶將有權不為其退款。
+合作商戶為商品單項報價，並<u>承諾為用戶之未經查收並且完好的商品安排退款</u>，包括安排職員點核並把接單人已代買的商品放入特定的密封用袋，使袋內商品無法不為意地被調換。密封用袋一經開啟，即表明商品已被查收，商戶將有權不為其退款。
 
 商品單項方面，本系統<u>只建議經標準化生產或有密封包裝的商品，不包括經即場製作的熟食外賣類、蔬菜類、生果類、海鮮類、鮮肉類及需恆低溫儲存的奶製品和豆製品商品</u>。
 
@@ -183,7 +183,6 @@ Updated: 2019.9.16.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 | 交收點與我的出發地<u>相近</u>（若考慮回程） | 近起點交收 |
 
 <div style="text-align: right"><small><i>（相近：50m以內）</i></small></div>
-
 
 
 ## 關於安全
