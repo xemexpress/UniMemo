@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size:50%">
-Updated: 2019.9.19.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
+Updated: 2019.10.3.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
 </div>
 
 # UniMemo 發掘順便
@@ -185,7 +185,6 @@ Updated: 2019.9.19.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 <div style="text-align: right"><small><i>（相近：50m以內）</i></small></div>
 
 
-
 ## 關於安全
 
 用戶的安全是我們最重視的一環。
@@ -208,8 +207,6 @@ Updated: 2019.9.19.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 
 
 
-
-
 ## 盈利模式
 
 #### 地域廣告
@@ -217,6 +214,10 @@ Updated: 2019.9.19.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest versio
 系統根據地理定位向用戶展示相關的產品廣告。
 
 
+
+#### 無人收銀商店
+
+根據數據開設無人收銀商店，自動化商品點核、支付和封裝。
 
 
 

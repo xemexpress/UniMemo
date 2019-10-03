@@ -1,4 +1,4 @@
-Updated: 2019.9.19.1&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
+Updated: 2019.10.2.1&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
 
 **English** | [中文](https://github.com/xemexpress/UniMemo/blob/master/README_Chinese.md)
 
@@ -32,16 +32,35 @@ Safety is our top priority.
 
 1. **Identity and Face Verification**
 
-   After providing email and mobile number for registration, you need to upload a picture of your Permanent ID Card (clearly visible with four corners shown) and a profile photo (clear, whole face with sunglasses and hat off) for further verification.
+   <div style="text-align: justify;">After providing email and mobile number for registration, you need to upload a picture of your Permanent ID Card (clearly visible with four corners shown) and a profile photo (clear, whole face with sunglasses and hat off) for further verification.</div>
 
 2. **Emergency Button**
 
-   Quickly call and share your location and Memo interaction details with authorities to get help during the settlement whenever necessary.
+   <div style="text-align: justify;">Quickly call and share your location and Memo interaction details with authorities to get help during the settlement whenever necessary.</div>
 
 3. **Share My Memo Interaction**
 
-   Share your location and Memo interaction status with friends and family.
+   <div style="text-align: justify;">Share your location and Memo interaction status with friends and family.</div>
 
 4. **Two-way Evaluation**
 
-   Memo interactions with low ratings are recorded and followed up, and users may be removed.
+   <div style="text-align: justify;">Memo interactions with low ratings are recorded and followed up, and users may be removed.</div>
+
+
+
+# Business Model
+
+#### Geo-targeting Advertising
+
+<div style="text-align: justify;">
+System will display advertisement of related commodity according to geographic location.
+</div>
+
+
+
+#### Cashierless Stores
+
+<div style="text-align: justify;">
+Cashierless stores will be opened to automate commodity check, payment and sealing.
+</div>
+

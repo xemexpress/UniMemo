@@ -1,4 +1,4 @@
-Updated: 2019.9.19.1&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
+Updated: 2019.10.3.1&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
 
 [Home](https://github.com/xemexpress/UniMemo) | [English](https://github.com/xemexpress/UniMemo/blob/master/README.md) | **中文**
 
@@ -45,3 +45,17 @@ Updated: 2019.9.19.1&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** 
 4. **雙向評準**
 
    低評的Memo互動將會被紀錄並跟進，相關用戶將可能被移除。
+
+<br/><br/>
+
+# 盈利模式
+
+#### 地域廣告
+
+系統根據地理定位向用戶展示相關的產品廣告。
+
+
+
+#### 無人收銀商店
+
+根據數據開設無人收銀商店，自動化商品點核、支付和封裝。
