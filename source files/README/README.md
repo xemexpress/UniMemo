@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size: 50%;">
-Updated: 2019.10.11.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.10.11.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
 # UniMemo -- Convenience in Passing
@@ -236,7 +236,7 @@ System will display advertisement of related commodity according to geographic l
 #### Cashierless Stores
 
 <div style="text-align: justify;">
-Cashierless stores will be opened to automate commodity check, payment and sealing.
+Based on data, cashierless stores will be opened to automate commodity check, payment and sealing.
 </div>
 
 
