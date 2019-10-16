@@ -1,4 +1,4 @@
-Updated: 2019.10.11.2&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
+Updated: 2019.10.16.1&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
 
 **English** | [中文](https://github.com/xemexpress/UniMemo/blob/master/README_Chinese.md)
 
@@ -6,7 +6,7 @@ Updated: 2019.10.11.2&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed**
 
 ### To Be Simple
 
-Take 10 % of price of commodity as commission，purchase & deliver in passing.
+Take 10 % of price of commodity as commission，purchase & settle in passing.
 
 ### <u>Components of a Memo</u>
 

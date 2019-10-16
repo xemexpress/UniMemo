@@ -1,12 +1,12 @@
 <div style="text-align: right; font-size: 50%;">
-Updated: 2019.10.11.2&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.10.16.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
 # UniMemo -- Convenience in Passing
 
 ### To Be Simple
 
-Take 10 % of price of commodity as commission，purchase & deliver in passing.
+Take 10 % of price of commodity as commission，purchase & settle in passing.
 
 ### <u>Components of a Memo</u>
 
