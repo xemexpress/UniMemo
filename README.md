@@ -1,5 +1,7 @@
 Updated: 2019.10.16.2&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
 
+One-page summary **as follows**:
+
 **English** | [中文](https://github.com/xemexpress/UniMemo/blob/master/README_Chinese.md)
 
 # UniMemo -- Convenience in Passing
