@@ -1,4 +1,4 @@
-Updated: 2019.10.16.2&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
+Updated: 2019.10.18.1&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
 
 One-page summary **as follows**:
 
@@ -16,13 +16,37 @@ Take 10 % of price of commodity as commission，purchase & settle in passing.
 - Shopping List
 - Place & time for settlement
 
-| Key Support                                                  | Functions                                                    |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <div style="white-space: nowrap;">Online Payment Platform</div> | <u>Build trust</u>.<div><small>Peace of mind for advance payments.</small></div> |
-| <div style="white-space: nowrap;">Retail Merchant Partners</div> | <u>Protect interests</u>.<div><small>Make every purchase reliable and refundable.</small></div> |
-| <div style="white-space: nowrap;">Two-way Evaluation</div>   | <u>Value opinions</u>.<div><small>Record and follow up low-rated interactions.</small></div> |
-| <div style="white-space: nowrap;">Anonymous Communication</div> | <u>Respect privacy</u>.<div><small>Ensure personal information stays private.</small></div> |
-| <div style="white-space: nowrap;">Roadshow Algorithm</div>   | <u>Connect convenience</u>.<div><small>Search for related Memo on your way.</small></div> |
+<table>
+  <tr>
+    <th>#</th>
+    <th colspan="2">Key Support</th>
+    <th>Functions</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td colspan="2">Online Payment Platform</td>
+    <td><u>Build trust</u>.<div><small>Peace of mind for advance payments.</small></div></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td colspan="2">Retail Merchant Partners</td>
+    <td><u>Protect interests</u>.<div><small>Make every purchase reliable and refundable.</small></div></td>
+  </tr>
+  <tr>
+    <td rowspan="3">3</td>
+    <td rowspan="3">Mobile App</td>
+    <td>Two-way Evaluation</td>
+    <td><u>Value opinions</u>.<div><small>Record and follow up low-rated interactions.</small></div></td>
+  </tr>
+  <tr>
+    <td>Anonymous Communication</td>
+    <td><u>Respect privacy</u>.<div><small>Ensure personal information stays private.</small></div></td>
+  </tr>
+  <tr>
+    <td>Roadshow Algorithm</td>
+    <td><u>Connect convenience</u>.<div><small>Search for related Memo on your way.</small></div></td>
+  </tr>
+</table>
 
 ![Positioning](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Positioning.jpg)
 
