@@ -18,32 +18,32 @@ Take 10 % of price of commodity as commission，purchase & settle in passing.
 
 <table>
   <tr>
-    <th>#</th>
+    <th style="text-align:center">#</th>
     <th colspan="2">Key Support</th>
     <th>Functions</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td style="text-align:center">1</td>
     <td colspan="2">Online Payment Platform</td>
     <td><u>Build trust</u>.<div><small>Peace of mind for advance payments.</small></div></td>
   </tr>
   <tr>
-    <td>2</td>
+    <td style="text-align:center">2</td>
     <td colspan="2">Retail Merchant Partners</td>
     <td><u>Protect interests</u>.<div><small>Make every purchase reliable and refundable.</small></div></td>
   </tr>
   <tr>
-    <td rowspan="3">3</td>
-    <td rowspan="3">Mobile App</td>
-    <td>Two-way Evaluation</td>
+    <td style="text-align:center" rowspan="3">3</td>
+    <td style="text-align:center" rowspan="3">Mobile<br/>App</td>
+    <td style="text-align:center">Two-way Evaluation</td>
     <td><u>Value opinions</u>.<div><small>Record and follow up low-rated interactions.</small></div></td>
   </tr>
   <tr>
-    <td>Anonymous Communication</td>
+    <td style="text-align:center">Anonymous<br/>Communication</td>
     <td><u>Respect privacy</u>.<div><small>Ensure personal information stays private.</small></div></td>
   </tr>
   <tr>
-    <td>Roadshow Algorithm</td>
+    <td style="text-align:center">Roadshow<br/>Algorithm</td>
     <td><u>Connect convenience</u>.<div><small>Search for related Memo on your way.</small></div></td>
   </tr>
 </table>

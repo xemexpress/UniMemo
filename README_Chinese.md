@@ -1,4 +1,6 @@
-Updated: 2019.10.16.2&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
+Updated: 2019.10.18.1&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)**
+
+One-page summary **as follows**:
 
 [Home](https://github.com/xemexpress/UniMemo) | [English](https://github.com/xemexpress/UniMemo/blob/master/README.md) | **中文**
 
@@ -14,13 +16,37 @@ Updated: 2019.10.16.2&nbsp;-&nbsp;Please <b>always</b> refer to the **detailed**
 - 代買清單
 - 交收時地
 
-| 關鍵配套     | 作用                                  |
-| ---------- | ------------------------------------- |
-| <div style="white-space: nowrap;">電子支付平台</div> | <u>建立信任</u>。墊支保障，安心付款。 |
-| <div style="white-space: nowrap;">合作零售商</div> | <u>保障權益</u>。讓每次代買都可靠且可退款。 |
-| <div style="white-space: nowrap;">雙向評準</div> | <u>重視意見</u>。紀錄並跟進低評的互動。 |
-| <div style="white-space: nowrap;">隱匿通訊</div> | <u>尊重私隱</u>。確保個人資料時刻保密。    |
-| <div style="white-space: nowrap;">路線演算</div> | <u>連接順便</u>。搜尋路途上順便的Memo。 |
+<table>
+  <tr>
+    <th style="text-align:center">#</th>
+    <th colspan="2">關鍵配套</th>
+    <th>作用</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">1</td>
+    <td colspan="2">電子支付平台</td>
+    <td><u>建立信任</u>。墊支保障，安心付款。</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">2</td>
+    <td colspan="2">合作零售商</td>
+    <td><u>保障權益</u>。讓每次代買都可靠且可退款。</td>
+  </tr>
+  <tr>
+    <td style="text-align:center" rowspan="3">3</td>
+    <td rowspan="3">移動應用程式</td>
+    <td style="text-align:center">雙向評準</td>
+    <td><u>重視意見</u>。紀錄並跟進低評的互動。</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">隱匿通訊</td>
+    <td><u>尊重私隱</u>。確保個人資料時刻保密。</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">路線演算</td>
+    <td><u>連接順便</u>。搜尋路途上順便的Memo。</td>
+  </tr>
+</table>
 
 ![Positioning](https://raw.githubusercontent.com/xemexpress/UniMemo/master/exported/README/Positioning.jpg)
 
