@@ -2,9 +2,7 @@ Updated: 2019.10.18.1
 
 **Detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)** 
 
-**Keynote**: **[Beginning.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/Beginning/Beginning.pdf)**
-
-**Telegram**: https://t.me/unimemo_updates
+:memo: [keynotes](https://github.com/xemexpress/UniMemo/blob/master/exported/Beginning/Beginning.pdf) | :coffee: [updates channel](https://t.me/unimemo_updates)
 
 <br/>
 
