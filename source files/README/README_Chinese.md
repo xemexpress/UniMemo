@@ -1,5 +1,5 @@
-<div style="text-align: right; font-size:50%">
-Updated: 2019.10.18.1&nbsp;-&nbsp;Please <b>always</b> refer to the latest version: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf</u>
+<div style="text-align: right; font-size: 50%;">
+Updated: 2019.10.18.1&nbsp;-&nbsp;Thank you. Please refer to the latest docs if possible: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
 # UniMemo 發掘順便
