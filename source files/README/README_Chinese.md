@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size: 50%;">
-Updated: 2019.10.18.1&nbsp;-&nbsp;Thank you. Please refer to the latest docs if possible: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.10.19.1&nbsp;-&nbsp;Thank you. Please refer to the latest docs if possible: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
 # UniMemo 發掘順便
@@ -193,7 +193,7 @@ Updated: 2019.10.18.1&nbsp;-&nbsp;Thank you. Please refer to the latest docs if 
 | 方式    | 默認起點                         | 默認終點    | 可設通知 |
 | ------- | ------------------------------ | ---------- | ------- |
 | 具向搜尋 | 當前位置或自行輸入 | 須自行輸入   | √       |
-| 一般搜尋 | 預設常到地點及當前位置         | 預設常到地點 | √       |
+| 一般搜尋 | 預設地點和/或路線和/或當前位置 | 預設地點和/或路線 | √       |
 
 <div style="margin-top: 27px;">
   當中較理想的情況會作特別標示：

@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size: 50%;">
-Updated: 2019.10.18.1&nbsp;-&nbsp;Thank you. Please refer to the latest docs if possible: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.10.19.1&nbsp;-&nbsp;Thank you. Please refer to the latest docs if possible: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
 # UniMemo -- Convenience in Passing
@@ -203,10 +203,10 @@ The system defines '<u>extra travel distrance no more than 15 minutes</u>' as 'b
 The system will calculate the Shopping Points and Points of Settlement along the route using the Starting Points (may consider route of return) and Ending Points provided by the users. Users can let the system start roadshow algorithm by two ways:
 </div>
 
-| Way                | Default<div>Starting Point</div>                             | Default<div>Destination</div>  | Set<div>Notification</div> |
-| ------------------ | ------------------------------------------------------------ | ------------------------------ | -------------------------- |
-| Directional Search | Current location<div>or to enter by yourself</div>           | Must enter by yourself         | √                          |
-| General Search     | Preset frequent&nbsp;locations<div>and current location</div> | Preset frequent&nbsp;locations | √                          |
+| Way                | Default<div>Starting Point</div>                       | Default<div>Destination</div> | Set<div>Notification</div> |
+| ------------------ | ------------------------------------------------------ | ----------------------------- | -------------------------- |
+| Directional Search | Current location<div>or to enter by yourself</div>     | Must enter by yourself        | √                          |
+| General Search     | Preset locations/routes<div>and current location</div> | Preset locations/routes       | √                          |
 
 <div style="text-align: justify;">
 Ideal situations will be specially marked:
@@ -216,7 +216,7 @@ Ideal situations will be specially marked:
 | ------------------------------------------------------------ | ------------------------------ |
 | Shopping Point & Point of Settlement are <u>approximate</u>  | Settle after purchased         |
 | Point of Settlement & My Destination are <u>approximate</u>  | Settle when arrived            |
-| Shopping Point & Starting Point are <u>approximate</u>       | Start and purchase             |
+| Shopping Point & My Starting Point are <u>approximate</u>    | Start and purchase             |
 | Shopping Point & My Destination are <u>the same</u><div>(if consider route of return)</div> | Same Shopping Point            |
 | Shopping Point & My Destination are <u>approximate</u><div>(if consider route of return)</div> | Nearby Shopping Points         |
 | Point of Settlement & My Starting Point are <u>approximate</u><div>(if consider route of return)</div> | Settle near the Starting Point |
