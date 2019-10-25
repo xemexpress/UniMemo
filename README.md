@@ -2,7 +2,7 @@ Updated: 2019.10.19.1
 
 **Detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)** 
 
-:memo: [keynotes](https://github.com/xemexpress/UniMemo/blob/master/exported/Beginning/Beginning.pdf) | :coffee: [updates channel](https://t.me/unimemo_updates) | :moyai: [UI experiments](https://github.com/xemexpress/UniMemo/blob/master/exported/Experimenting/UI%20experiments.pdf)
+:memo:&nbsp;[keynotes](https://github.com/xemexpress/UniMemo/blob/master/exported/Beginning/Beginning.pdf) |:coffee:&nbsp;[updates channel](https://t.me/unimemo_updates) | :moyai:&nbsp;[UI experiments](https://github.com/xemexpress/UniMemo/blob/master/exported/Experimenting/UI%20experiments.pdf)
 
 <br/>
 
