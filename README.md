@@ -1,4 +1,4 @@
-Updated: 2019.10.19.1
+Updated: 2019.10.27.1
 
 **Detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)** 
 
@@ -58,7 +58,7 @@ Take 10 % of price of commodity as commission，purchase & settle in passing.
 
 <br/><br/>
 
-# About Safety
+# Safety Issues
 
 Safety is our top priority.
 

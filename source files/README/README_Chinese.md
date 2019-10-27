@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size: 50%;">
-Updated: 2019.10.19.1&nbsp;-&nbsp;Thank you. Please refer to the latest docs if possible: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.10.27.1&nbsp;-&nbsp;Thank you. Please refer to the latest docs if possible: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
 # UniMemo 發掘順便
@@ -209,7 +209,7 @@ Updated: 2019.10.19.1&nbsp;-&nbsp;Thank you. Please refer to the latest docs if 
 | 交收點與我的出發地<u>相近</u>（若考慮回程） | 近起點交收 |
 
 <div style="text-align: right"><small><i>（相近：50m以內）</i></small></div>
-## 關於安全
+## 安全問題
 
 用戶的安全是我們最重視的一環。
 

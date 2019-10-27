@@ -1,4 +1,4 @@
-Updated: 2019.10.19.1
+Updated: 2019.10.27.1
 
 **Detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)** 
 
@@ -58,7 +58,7 @@ Updated: 2019.10.19.1
 
 <br/><br/>
 
-# 關於安全
+# 安全問題
 
 用戶的安全是我們最重視的一環。
 

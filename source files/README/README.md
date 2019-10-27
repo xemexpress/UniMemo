@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size: 50%;">
-Updated: 2019.10.19.1&nbsp;-&nbsp;Thank you. Please refer to the latest docs if possible: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.10.27.1&nbsp;-&nbsp;Thank you. Please refer to the latest docs if possible: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
 # UniMemo -- Convenience in Passing
@@ -66,7 +66,7 @@ Take 10 % of price of commodity as commission，purchase & settle in passing.
    The system can gather the price of a commodity sold in different shops (Shopping Points). You can adjust the price according to your budget, region or rating given to those Shopping Points. The more the Shoping Points selling that commodity, the higher the chance the Memo will be read.
    ```
 
-3. Confirm the place and time for settlement. 
+3. Confirm the place and time for settlement.
 
 4. Pay the deposit.
 
@@ -196,7 +196,7 @@ reasons will be recorded by the system as reference.
 #### Roadshow Algorithm
 
 <div style="text-align: justify;">
-The system defines '<u>extra travel distrance no more than 15 minutes</u>' as 'bypassing' with a speed of 1.25 meters per second by default.
+The system defines '<u>extra travel distance no more than 15 minutes</u>' as 'bypassing' with a speed of 1.25 meters per second by default.
 </div>
 
 <div style="margin-top: 10px; text-align: justify;">
@@ -225,7 +225,7 @@ Ideal situations will be specially marked:
 <small><i>（Approximate：within 50m）</i></small>
 </div>
 
-## About Safety
+## Safety Issues
 
 Safety is our top priority.
 
