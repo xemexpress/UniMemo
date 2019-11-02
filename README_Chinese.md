@@ -1,4 +1,4 @@
-Updated: 2019.10.27.1
+Updated: 2019.11.2.1
 
 **Detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)** 
 
@@ -85,9 +85,3 @@ Updated: 2019.10.27.1
 #### 地域廣告
 
 系統根據地理定位向用戶展示相關的產品廣告。
-
-
-
-#### 無人收銀商店
-
-根據數據開設無人收銀商店，自動化商品點核、支付和封裝。

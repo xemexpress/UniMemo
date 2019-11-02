@@ -1,4 +1,4 @@
-Updated: 2019.10.27.1
+Updated: 2019.11.2.1
 
 **Detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)** 
 
@@ -86,13 +86,5 @@ Safety is our top priority.
 
 <div style="text-align: justify;">
 System will display advertisement of related commodity according to geographic location.
-</div>
-
-
-
-#### Cashierless Stores
-
-<div style="text-align: justify;">
-Based on data, cashierless stores will be opened to automate commodity check, payment and sealing.
 </div>
 
