@@ -1,5 +1,5 @@
 <div style="text-align: right; font-size: 50%; margin-top: -20px;">
-Updated: 2019.11.28.1&nbsp;-&nbsp;Thank you. Please refer to the latest docs if possible: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.12.15.1&nbsp;-&nbsp;Thank you. Please refer to the latest docs if possible: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
 **Project Name:** UniMemo
@@ -56,7 +56,7 @@ An offerer is someone who wants to buy something and posts a Memo on UniMemo to 
 
 <br/>
 
-# UniMemo -- Convenience in Passing
+# UniMemo -- Your Time Saver
 
 ### To Be Simple
 

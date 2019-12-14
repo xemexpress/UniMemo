@@ -1,8 +1,8 @@
-Updated: 2019.11.28.1
+Updated: 2019.12.15.1
 
 **Detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)** 
 
-:memo:&nbsp;[keynotes](https://github.com/xemexpress/UniMemo/blob/master/exported/Beginning/Beginning.pdf) |​ :coffee:&nbsp;[updates channel](https://t.me/unimemo_updates) | :moyai:&nbsp;[UI experiments](https://github.com/xemexpress/UniMemo/blob/master/exported/Experimenting/UI%20experiments.pdf)
+:memo:&nbsp;[keynotes](https://github.com/xemexpress/UniMemo/blob/master/exported/Beginning/Beginning.pdf) |​ :coffee:&nbsp;[updates channel](https://t.me/unimemo_updates) | :moyai:&nbsp;UI (TBC)
 
 <br/>
 
@@ -68,7 +68,7 @@ An offerer is someone who wants to buy something and posts a Memo on UniMemo to 
 
 <br/>
 
-# UniMemo -- Convenience in Passing
+# UniMemo -- Your Time Saver
 
 ### To Be Simple
 
