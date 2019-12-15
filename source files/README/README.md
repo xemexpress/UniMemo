@@ -1,8 +1,8 @@
 <div style="text-align: right; font-size: 50%; margin-top: -20px;">
-Updated: 2019.12.15.1&nbsp;-&nbsp;Thank you. Please refer to the latest docs if possible: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
+Updated: 2019.12.15.2&nbsp;-&nbsp;Thank you. Please refer to the latest docs if possible: <u>https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf</u>
 </div>
 
-**Project Name:** UniMemo
+**Project Name:** UniMemo -- Your Time Saver
 
 **Problem:**
 
@@ -106,7 +106,7 @@ Take 10 % of price of commodity as commission，purchase & settle in passing.
 
 ### <u>Components of a Memo</u>
 
-##### As an offerer, offer 10 % of price of the commodity as commission to let a bypasser shop for you. Steps are as follows:
+##### As an offerer, offer 10 % of price of the commodity as commission to let an offeree shop for you. Steps are as follows:
 
 1. Search keywords of the commodity. 
 
@@ -125,13 +125,13 @@ Take 10 % of price of commodity as commission，purchase & settle in passing.
 4. Pay the deposit.
 
    ```markdown
-   The system will derive the highest selling price of the commodity sold in differnt Shopping Points as the deposit. 10 % of price of the commodity will be added up as the reward given to the bypasser. During settlement, the deposit will be used to pay for the commodity which has been confirmed by the store of Shopping Point and has been accepted by a bypasser. Balance (if there is any) will be returned to the digital wallet owned by the offerer. If you cannot pay the deposit, the Memo will not be posted. 
+   The system will derive the highest selling price of the commodity sold in differnt Shopping Points as the deposit. 10 % of price of the commodity will be added up as the reward given to the offeree. During settlement, the deposit will be used to pay for the commodity which has been confirmed by the store of Shopping Point and has been accepted by an offeree. Balance (if there is any) will be returned to the digital wallet owned by the offerer. If you cannot pay the deposit, the Memo will not be posted. 
    ```
 
-5. Post the Memo. If it is accepted by a bypasser, follow the specified place and time to settle the transaction. 
+5. Post the Memo. If it is accepted by an offeree, follow the specified place and time to settle the transaction. 
 
    ```markdown
-   If you want to cancel a Memo which has not been accepted by a bypasser, the deposit paid in advance will be fully returned. Otherwise, the price paid in advance for the commodity will be returned to the offerer while the remaining deposit, which is the reward of 10 % of the price, will be given to the bypasser as a compensation.
+   If you want to cancel a Memo which has not been accepted by an offeree, the deposit paid in advance will be fully returned. Otherwise, the price paid in advance for the commodity will be returned to the offerer while the remaining deposit, which is the reward of 10 % of the price, will be given to the offeree as a compensation.
    ```
 
 
@@ -142,7 +142,7 @@ Take 10 % of price of commodity as commission，purchase & settle in passing.
 
 
 
-##### A bypasser will be given 10 % of price of commodity as reward when helping the offerer to purchase in passing. Simple steps are as follows:
+##### An offeree will be given 10 % of price of commodity as reward when helping the offerer to purchase in passing. Simple steps are as follows:
 
 1. Input the destination you are heading to.
 
@@ -161,7 +161,7 @@ Take 10 % of price of commodity as commission，purchase & settle in passing.
 #### Deposit
 
 <div style="text-align: justify;">
-Deposit is the amount of money paid by an offerer before sending out the Memo. It is used to pay for the commodity and reward for the bypasser. The bypasser can only secure the deposit after accepting the order to help the offerer to buy the commodity in passing. <u>During settlement, the offerer reserves the right to decide whether to pay for the commodity if it is not in its intact form</u>, e.g. the package is opened or damaged. The bypasser does not need to give the commodity to the offerer if the offerer does not pay.
+Deposit is the amount of money paid by an offerer before sending out the Memo. It is used to pay for the commodity and reward for the offeree. The offeree can only secure the deposit after accepting the order to help the offerer to buy the commodity in passing. <u>During settlement, the offerer reserves the right to decide whether to pay for the commodity if it is not in its intact form</u>, e.g. the package is opened or damaged. The offeree does not need to give the commodity to the offerer if the offerer does not pay.
 </div>
 
 
@@ -173,7 +173,7 @@ A shopping list consists of items of commodity. Items of commodity state clearly
 </div>
 
 <div style="margin-top: 10px; text-align: justify;">
-Potential bypassers <u>can choose the type of  commodity and the number of it accroding to their own interest</u>. By confirming the commodity and number of items they are willing to help the offerer to buy, they become a bypasser. Bypassers should <u>show a barcode</u> to the cashier when they pay. The cashier will scan the barcode and <u>check whether the commodity and number of items are correct</u>. After checking, the bypasser can pay and the cashier will put the items into a sealed bag with a receipt to ensure that the commodity will not be swapped. Meanwhile, the system will update the status of transaction, including commodity check, payment and sealing.
+Potential offerees <u>can choose the type of  commodity and the number of it accroding to their own interest</u>. By confirming the commodity and number of items they are willing to help the offerer to buy, they become a offeree. offerees should <u>show a barcode</u> to the cashier when they pay. The cashier will scan the barcode and <u>check whether the commodity and number of items are correct</u>. After checking, the offeree can pay and the cashier will put the items into a sealed bag with a receipt to ensure that the commodity will not be swapped. Meanwhile, the system will update the status of transaction, including commodity check, payment and sealing.
 </div>
 
 
@@ -181,7 +181,7 @@ Potential bypassers <u>can choose the type of  commodity and the number of it ac
 #### Place and Time for Settlement
 
 <div style="text-align: justify;">
-Potential bypassers will only receive relevant Memo when <u>the time for settlement matches with the estimated arrival time</u> and <u>the place for settlement is approximate to the orginally planned route</u>.
+Potential offerees will only receive relevant Memo when <u>the time for settlement matches with the estimated arrival time</u> and <u>the place for settlement is approximate to the orginally planned route</u>.
 </div>
 
 
@@ -223,14 +223,14 @@ To provide users with instant voice, text and image messaging while protecting u
 Users can evaluate the interections they had with others after the settlement. Good ratings are specified by a default sentence while reasons must be given to verify bad ratings.
 </div>
 
-| Offerer                            | Bypasser                         |
+| Offerer                            | Offeree                          |
 | ---------------------------------- | -------------------------------- |
 | -                                  | Difficult to find the shops      |
 | -                                  | Shops are unfriendly             |
-| Difficult to contact the bypasser  | Difficult to contact the offerer |
-| Difficult to find a bypasser       | Difficult to find a offerer      |
-| Waiting too long for the bypasser  | Waiting too long for the offerer |
-| The bypasser is impolite           | The offerer is impolite          |
+| Difficult to contact the offeree   | Difficult to contact the offerer |
+| Difficult to find an offeree       | Difficult to find an offerer     |
+| Waiting too long for the offeree   | Waiting too long for the offerer |
+| The offeree is impolite            | The offerer is impolite          |
 | The commodity is damaged or lacked | -                                |
 | Others                             | Others                           |
 
@@ -238,12 +238,12 @@ If the users want to cancel the Memo of withdraw from an order,
 
 reasons will be recorded by the system as reference. 
 
-| Reasons for Offerers to Cancel Order | Reasons for Bypassers to Withdraw |
-| ------------------------------------ | --------------------------------- |
-| Do not need the item anymore         | The commodity does not exist      |
-| Bought the item already              | The commodity is sold             |
-| Want to get back the deposit         | Route is changed                  |
-| Others                               | Others                            |
+| Reasons for Offerers to Cancel Order | Reasons for Offerees to Withdraw |
+| ------------------------------------ | -------------------------------- |
+| Do not need the item anymore         | The commodity does not exist     |
+| Bought the item already              | The commodity is sold            |
+| Want to get back the deposit         | Route is changed                 |
+| Others                               | Others                           |
 
 
 

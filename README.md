@@ -1,4 +1,4 @@
-Updated: 2019.12.15.1
+Updated: 2019.12.15.2
 
 **Detailed** version: **[README.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README.pdf)** | **[README_中文.pdf](https://github.com/xemexpress/UniMemo/blob/master/exported/README/README_Chinese.pdf)** 
 
@@ -10,7 +10,7 @@ Updated: 2019.12.15.1
 
 **English** | [中文](https://github.com/xemexpress/UniMemo/blob/master/README_Chinese.md)
 
-**Project Name:** UniMemo
+**Project Name:** UniMemo -- Your Time Saver
 
 **Problem:**
 
